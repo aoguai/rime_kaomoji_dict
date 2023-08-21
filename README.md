@@ -57,7 +57,7 @@ python main.py
 all_output_result_kmj.txt
 all_output_result_pinyin.txt
 ```
-与 `kaomoji_kmj.dict.yaml`和 `kaomoji_pinyin.dict.yaml`对应
+与 `kaomoji_kmj.dict.yaml` 和 `kaomoji_pinyin.dict.yaml`对应
 
 同时，从本仓库源码构建时，您可以自行选择使用哪些颜文字素材，只需在 `main.py` 中修改 `input_filename_list` 变量即可。
 
@@ -76,7 +76,7 @@ all_output_result_pinyin.txt
 [搜狗颜文字](https://pinyin.sogou.com/dict/ywz/?f=dict_index&ytype=24)
 
 ## 免责声明
-此存储库遵循 [MIT 开源协议](https://github.com/aoguai/rime_kaomoji_dict/blob/main/LICENSE)，请务必理解。
+此存储库遵循 [MIT 开源协议](https://github.com/aoguai/rime_kaomoji_dict/blob/master/LICENSE)，请务必理解。
 
 我们严禁所有通过本程序违反任何国家法律的行为，请在法律范围内使用本程序。
 

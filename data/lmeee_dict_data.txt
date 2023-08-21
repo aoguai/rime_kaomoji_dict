@@ -1,0 +1,402 @@
+<li class=""><p>(。・∀・)ノ</p><span class="copyBtn" data-desc="同意" data-clipboard-text="(。・∀・)ノ">同意</span></li>
+<li class=""><p>(u‿ฺu✿ฺ)</p><span class="copyBtn" data-desc="好的" data-clipboard-text="(u‿ฺu✿ฺ)">好的</span></li>
+<li class=""><p>ヽ(✿ﾟ▽ﾟ)ノ</p><span class="copyBtn" data-desc="好耶" data-clipboard-text="ヽ(✿ﾟ▽ﾟ)ノ">好耶</span></li>
+<li class=""><p>（゜▽＾*））</p><span class="copyBtn" data-desc="好" data-clipboard-text="（゜▽＾*））">好</span></li>
+<li class=""><p>(ﾟｰﾟ)</p><span class="copyBtn" data-desc="是啊，同意" data-clipboard-text="(ﾟｰﾟ)">是啊，同意</span></li>
+<li><p>ε(*´･∀･｀)зﾞ</p><span class="copyBtn" data-desc="oh yeah～" data-clipboard-text="ε(*´･∀･｀)зﾞ">oh yeah～</span></li>
+<li><p>（´v｀）</p><span class="copyBtn" data-desc="满意" data-clipboard-text="（´v｀）">满意</span></li>
+<li class=""><p>(≧∇≦)ﾉ</p><span class="copyBtn" data-desc="喜欢" data-clipboard-text="(≧∇≦)ﾉ">喜欢</span></li>
+<li class=""><p>o(^▽^)o</p><span class="copyBtn" data-desc="真好" data-clipboard-text="o(^▽^)o">真好</span></li>
+<li class=""><p>(￣︶￣)↗</p><span class="copyBtn" data-desc="大涨" data-clipboard-text="(￣︶￣)↗">大涨</span></li>
+<li><p>o(*￣▽￣*)o</p><span class="copyBtn" data-desc="幸福" data-clipboard-text="o(*￣▽￣*)o">幸福</span></li>
+<li><p>(p≧w≦q)</p><span class="copyBtn" data-desc="兴奋" data-clipboard-text="(p≧w≦q)">兴奋</span></li>
+<li class=""><p>ㄟ(≧◇≦)ㄏ</p><span class="copyBtn" data-desc="太棒了" data-clipboard-text="ㄟ(≧◇≦)ㄏ">太棒了</span></li>
+<li class=""><p>(/≧▽≦)/</p><span class="copyBtn" data-desc="噗~" data-clipboard-text="(/≧▽≦)/">噗~</span></li>
+<li class=""><p>(　ﾟ∀ﾟ) ﾉ♡</p><span class="copyBtn" data-desc="噢耶" data-clipboard-text="(　ﾟ∀ﾟ) ﾉ♡">噢耶</span></li>
+<li><p>o(*￣︶￣*)o</p><span class="copyBtn" data-desc="满足" data-clipboard-text="o(*￣︶￣*)o">满足</span></li>
+<li><p>(๑¯∀¯๑)</p><span class="copyBtn" data-desc="满足" data-clipboard-text="(๑¯∀¯๑)">满足</span></li>
+<li><p>(≧∀≦)ゞ</p><span class="copyBtn" data-desc="乐呵呵" data-clipboard-text="(≧∀≦)ゞ">乐呵呵</span></li>
+<li class=""><p>φ(≧ω≦*)♪</p><span class="copyBtn" data-desc="兴奋的唱歌" data-clipboard-text="φ(≧ω≦*)♪">兴奋的唱歌</span></li>
+<li class=""><p>╰(*°▽°*)╯</p><span class="copyBtn" data-desc="惊喜" data-clipboard-text="╰(*°▽°*)╯">惊喜</span></li>
+<li><p>(*^▽^*)</p><span class="copyBtn" data-desc="真开心" data-clipboard-text="(*^▽^*)">真开心</span></li>
+<li><p>o(￣▽￣)ｄ</p><span class="copyBtn" data-desc="Good!" data-clipboard-text="o(￣▽￣)ｄ">Good!</span></li>
+<li><p>φ(゜▽゜*)♪</p><span class="copyBtn" data-desc="高兴" data-clipboard-text="φ(゜▽゜*)♪">高兴</span></li>
+<li><p>嗯~ o(*￣▽￣*)o</p><span class="copyBtn" data-desc="嗯啊，就这么愉快的决定了" data-clipboard-text="嗯~ o(*￣▽￣*)o">嗯啊，就这么愉快的决定了</span></li>
+<li><p>(o゜▽゜)o☆[BINGO!]</p><span class="copyBtn" data-desc="BINGO，答对了" data-clipboard-text="(o゜▽゜)o☆[BINGO!]">BINGO，答对了</span></li>
+<li><p>(๑•̀ㅂ•́)و✧</p><span class="copyBtn" data-desc="棒棒哒" data-clipboard-text="(๑•̀ㅂ•́)و✧">棒棒哒</span></li>
+<li><p>¯\_(౦▾౦ ✿)¯\_</p><span class="copyBtn" data-desc="跳舞" data-clipboard-text="¯\_(౦▾౦ ✿)¯\_">跳舞</span></li>
+<li><p>ヾ(≧O≦)〃嗷~</p><span class="copyBtn" data-desc="嗷~嗷~" data-clipboard-text="ヾ(≧O≦)〃嗷~">嗷~嗷~</span></li>
+<li><p>♪(^∇^*)</p><span class="copyBtn" data-desc="啦啦啦" data-clipboard-text="♪(^∇^*)">啦啦啦</span></li>
+<li><p>...φ(0￣*)啦啦啦_φ(*￣0￣)′</p><span class="copyBtn" data-desc="卡啦ok" data-clipboard-text="...φ(0￣*)啦啦啦_φ(*￣0￣)′">卡啦ok</span></li>
+<li><p>╰(*°‿°*)╯</p><span class="copyBtn" data-desc="惊喜" data-clipboard-text="╰(*°‿°*)╯">惊喜</span></li>
+<li><p>┗|｀O′|┛ 嗷~~</p><span class="copyBtn" data-desc="嗷~~" data-clipboard-text="┗|｀O′|┛ 嗷~~">嗷~~</span></li>
+<li><p>(o&gt;ε(o&gt;ｕ(≧∩≦)</p><span class="copyBtn" data-desc="振奋" data-clipboard-text="(o>ε(o>ｕ(≧∩≦)">振奋</span></li>
+<li><p>(＾－＾)V</p><span class="copyBtn" data-desc="欧耶" data-clipboard-text="(＾－＾)V">欧耶</span></li>
+<li><p>！*★,°*:.☆(￣▽￣)/$:*.°★* 。</p><span class="copyBtn" data-desc="欢呼“万岁”" data-clipboard-text="！*★,°*:.☆(￣▽￣)/$:*.°★* 。">欢呼“万岁”</span></li>
+<li><p>ヾ(￣ー￣)X(^▽^)ゞ</p><span class="copyBtn" data-desc="KO！获胜" data-clipboard-text="ヾ(￣ー￣)X(^▽^)ゞ">KO！获胜</span></li>
+<li><p>( ＾∀＾）／欢迎＼( ＾∀＾）</p><span class="copyBtn" data-desc="欢迎欢迎，热烈欢迎！" data-clipboard-text="( ＾∀＾）／欢迎＼( ＾∀＾）">欢迎欢迎，热烈欢迎！</span></li>
+<li><p>^O^</p><span class="copyBtn" data-desc="吼吼、欢呼" data-clipboard-text="^O^">吼吼、欢呼</span></li>
+<li><p>(( へ(へ´∀`)へ</p><span class="copyBtn" data-desc="High起来！" data-clipboard-text="(( へ(へ´∀`)へ">High起来！</span></li>
+<li><p>(´▽`ʃ♡ƪ)</p><span class="copyBtn" data-desc="Happy" data-clipboard-text="(´▽`ʃ♡ƪ)">Happy</span></li>
+<li><p>╰(￣▽￣)╭</p><span class="copyBtn" data-desc="欢呼，欢迎" data-clipboard-text="╰(￣▽￣)╭">欢呼，欢迎</span></li>
+<li><p>︿(￣︶￣)︿</p><span class="copyBtn" data-desc="飞" data-clipboard-text="︿(￣︶￣)︿">飞</span></li>
+<li><p>&lt;(*￣▽￣*)/</p><span class="copyBtn" data-desc="咩哈哈" data-clipboard-text="<(*￣▽￣*)/">咩哈哈</span></li>
+<li><p>(^▽^ )</p><span class="copyBtn" data-desc="微笑" data-clipboard-text="(^▽^ )">微笑</span></li>
+<li><p>*´∀`)´∀`)*´∀`)*´∀`)</p><span class="copyBtn" data-desc="啊哈哈哈~~~" data-clipboard-text="*´∀`)´∀`)*´∀`)*´∀`)">啊哈哈哈~~~</span></li>
+<li><p>．&lt;{=．．．．（嘎~嘎~嘎~）</p><span class="copyBtn" data-desc="嘎嘎，笑" data-clipboard-text="．<{=．．．．（嘎~嘎~嘎~）">嘎嘎，笑</span></li>
+<li><p>o(*≧▽≦)ツ</p><span class="copyBtn" data-desc="爆笑" data-clipboard-text="o(*≧▽≦)ツ">爆笑</span></li>
+<li><p>(눈▂눈)</p><span class="copyBtn" data-desc="傲娇兵长" data-clipboard-text="(눈▂눈)">傲娇兵长</span></li>
+<li><p>(＠￣ー￣＠)</p><span class="copyBtn" data-desc="哼哼" data-clipboard-text="(＠￣ー￣＠)">哼哼</span></li>
+<li><p>(◡ᴗ◡✿)</p><span class="copyBtn" data-desc="自恋" data-clipboard-text="(◡ᴗ◡✿)">自恋</span></li>
+<li><p>&lt;(￣ ﹌ ￣)@m</p><span class="copyBtn" data-desc="指" data-clipboard-text="<(￣ ﹌ ￣)@m">指</span></li>
+<li><p>( ﹁ ﹁ ) ~→</p><span class="copyBtn" data-desc="斜眼" data-clipboard-text="( ﹁ ﹁ ) ~→">斜眼</span></li>
+<li><p>(☆-ｖ-)</p><span class="copyBtn" data-desc="无视" data-clipboard-text="(☆-ｖ-)">无视</span></li>
+<li><p>(´ｰ∀ｰ`)</p><span class="copyBtn" data-desc="轻蔑" data-clipboard-text="(´ｰ∀ｰ`)">轻蔑</span></li>
+<li><p>┌( ´_ゝ` )┐</p><span class="copyBtn" data-desc="冷艳" data-clipboard-text="┌( ´_ゝ` )┐">冷艳</span></li>
+<li><p>(‾◡◝)</p><span class="copyBtn" data-desc="骄傲" data-clipboard-text="(‾◡◝)">骄傲</span></li>
+<li><p>(￣_,￣ )</p><span class="copyBtn" data-desc="不屑" data-clipboard-text="(￣_,￣ )">不屑</span></li>
+<li><p>(ˉ▽￣～) 切~~</p><span class="copyBtn" data-desc="切~~" data-clipboard-text="(ˉ▽￣～) 切~~">切~~</span></li>
+<li><p>~~( ﹁ ﹁ ) ~~~</p><span class="copyBtn" data-desc="切，不屑" data-clipboard-text="~~( ﹁ ﹁ ) ~~~">切，不屑</span></li>
+<li><p>&lt;(￣ ﹌ ￣)@m 就你！</p><span class="copyBtn" data-desc="就你！" data-clipboard-text="<(￣ ﹌ ￣)@m 就你！">就你！</span></li>
+<li><p>( ￣ー￣)</p><span class="copyBtn" data-desc="不屑" data-clipboard-text="( ￣ー￣)">不屑</span></li>
+<li><p>눈_눈</p><span class="copyBtn" data-desc="兵长" data-clipboard-text="눈_눈">兵长</span></li>
+<li><p>(눈益눈)</p><span class="copyBtn" data-desc="蓄力中的兵长" data-clipboard-text="(눈益눈)">蓄力中的兵长</span></li>
+<li><p>(눈160눈)</p><span class="copyBtn" data-desc="兵长一米六" data-clipboard-text="(눈160눈)">兵长一米六</span></li>
+<li><p>(눈▽눈)</p><span class="copyBtn" data-desc="不正常的兵长" data-clipboard-text="(눈▽눈)">不正常的兵长</span></li>
+<li><p>(눈◇눈)</p><span class="copyBtn" data-desc="变成小鸡了的兵长" data-clipboard-text="(눈◇눈)">变成小鸡了的兵长</span></li>
+<li><p>(屮눈皿눈)</p><span class="copyBtn" data-desc="森气的兵长" data-clipboard-text="(屮눈皿눈)">森气的兵长</span></li>
+<li><p>(눈~눈)</p><span class="copyBtn" data-desc="卖萌的兵长" data-clipboard-text="(눈~눈)">卖萌的兵长</span></li>
+<li><p>(눈0눈)</p><span class="copyBtn" data-desc="讲话的兵长" data-clipboard-text="(눈0눈)">讲话的兵长</span></li>
+<li><p>(눈_눈)</p><span class="copyBtn" data-desc="兵长颜文字" data-clipboard-text="(눈_눈)">兵长颜文字</span></li>
+<li><p>( *・ω・)✄╰ひ╯</p><span class="copyBtn" data-desc="剪jj" data-clipboard-text="( *・ω・)✄╰ひ╯">剪jj</span></li>
+<li><p>_〆(´Д｀ )</p><span class="copyBtn" data-desc="画圈" data-clipboard-text="_〆(´Д｀ )">画圈</span></li>
+<li><p>↑↑↓↓←→←→ＢＡ...┗( -o-)┛</p><span class="copyBtn" data-desc="无敌" data-clipboard-text="↑↑↓↓←→←→ＢＡ...┗( -o-)┛">无敌</span></li>
+<li><p>ˋ( ° ▽、° ) (o(￣▽￣///(斩!!)</p><span class="copyBtn" data-desc="斩了" data-clipboard-text="ˋ( ° ▽、° ) (o(￣▽￣///(斩!!)">斩了</span></li>
+<li><p>(╯‵□′)╯炸弹！•••*～●</p><span class="copyBtn" data-desc="炸弹" data-clipboard-text="(╯‵□′)╯炸弹！•••*～●">炸弹</span></li>
+<li><p>ヽ(゜▽゜　)－C&lt;(/;◇;)/~</p><span class="copyBtn" data-desc="拖走" data-clipboard-text="ヽ(゜▽゜　)－C<(/;◇;)/~">拖走</span></li>
+<li><p>z(-_-z)).....((s-_-)s</p><span class="copyBtn" data-desc="射拳" data-clipboard-text="z(-_-z)).....((s-_-)s">射拳</span></li>
+<li><p>(╬￣皿￣)＝○＃(￣＃)３￣)</p><span class="copyBtn" data-desc="拳" data-clipboard-text="(╬￣皿￣)＝○＃(￣＃)３￣)">拳</span></li>
+<li><p>▄︻┻┳═一……</p><span class="copyBtn" data-desc="抢，突突" data-clipboard-text="▄︻┻┳═一……">抢，突突</span></li>
+<li><p>(o ￣3)==@))゜ロ゜((@==(′ε′ )o</p><span class="copyBtn" data-desc="两面夹击" data-clipboard-text="(o ￣3)==@))゜ロ゜((@==(′ε′ )o">两面夹击</span></li>
+<li><p>&lt;( ￣^￣)(θ(θ☆( &gt;_&lt;</p><span class="copyBtn" data-desc="踹" data-clipboard-text="<( ￣^￣)(θ(θ☆( >_<">踹</span></li>
+<li><p>▄︻┻┳═一…… ☆（&gt;○&lt;）</p><span class="copyBtn" data-desc="爆头" data-clipboard-text="▄︻┻┳═一…… ☆（>○<）">爆头</span></li>
+<li><p>(ﾉ*･ω･)ﾉ</p><span class="copyBtn" data-desc="推倒" data-clipboard-text="(ﾉ*･ω･)ﾉ">推倒</span></li>
+<li><p>▄︻┻┳═一∵∴∷∶∵&gt;&gt;</p><span class="copyBtn" data-desc="散弹" data-clipboard-text="▄︻┻┳═一∵∴∷∶∵>>">散弹</span></li>
+<li><p>[噎住] ( *⊙~⊙)</p><span class="copyBtn" data-desc="噎住" data-clipboard-text="[噎住] ( *⊙~⊙)">噎住</span></li>
+<li><p>( *⊙~⊙)</p><span class="copyBtn" data-desc="噎死" data-clipboard-text="( *⊙~⊙)">噎死</span></li>
+<li><p>( *^-^)ρ(^0^* )</p><span class="copyBtn" data-desc="喂吃的" data-clipboard-text="( *^-^)ρ(^0^* )">喂吃的</span></li>
+<li><p>0＾）吞！</p><span class="copyBtn" data-desc="吞" data-clipboard-text="0＾）吞！">吞</span></li>
+<li><p>Ψ(￣∀￣)Ψ</p><span class="copyBtn" data-desc="美味" data-clipboard-text="Ψ(￣∀￣)Ψ">美味</span></li>
+<li><p>(￣～～￣) 嚼！</p><span class="copyBtn" data-desc="嚼" data-clipboard-text="(￣～～￣) 嚼！">嚼</span></li>
+<li><p>(╯▽╰ )好香~~</p><span class="copyBtn" data-desc="好香" data-clipboard-text="(╯▽╰ )好香~~">好香</span></li>
+<li><p>(((((ヾ(　o=^•ェ•)o　┏━┓</p><span class="copyBtn" data-desc="吃饭" data-clipboard-text="(((((ヾ(　o=^•ェ•)o　┏━┓">吃饭</span></li>
+<li><p>ψ(｀∇´)ψ</p><span class="copyBtn" data-desc="吃点" data-clipboard-text="ψ(｀∇´)ψ">吃点</span></li>
+<li><p>(￣▽￣)～■干杯□～(￣▽￣)</p><span class="copyBtn" data-desc="干杯" data-clipboard-text="(￣▽￣)～■干杯□～(￣▽￣)">干杯</span></li>
+<li><p>(。﹏。)</p><span class="copyBtn" data-desc="低头" data-clipboard-text="(。﹏。)">低头</span></li>
+<li><p>(。﹏。*)</p><span class="copyBtn" data-desc="我错了" data-clipboard-text="(。﹏。*)">我错了</span></li>
+<li><p>( ￣ ￣)σ…( ＿ ＿)ノ｜壁</p><span class="copyBtn" data-desc="你去反省，面壁思过" data-clipboard-text="( ￣ ￣)σ…( ＿ ＿)ノ｜壁">你去反省，面壁思过</span></li>
+<li><p>（＞人＜；）</p><span class="copyBtn" data-desc="人家都说对不起了" data-clipboard-text="（＞人＜；）">人家都说对不起了</span></li>
+<li><p>（。・＿・。）ﾉ</p><span class="copyBtn" data-desc="对不起" data-clipboard-text="（。・＿・。）ﾉ">对不起</span></li>
+<li><p>o(￣┰￣*)ゞ</p><span class="copyBtn" data-desc="不好意思啦" data-clipboard-text="o(￣┰￣*)ゞ">不好意思啦</span></li>
+<li><p>(．． )…</p><span class="copyBtn" data-desc="那个" data-clipboard-text="(．． )…">那个</span></li>
+<li><p>￣O￣)ノ　</p><span class="copyBtn" data-desc="晚上好" data-clipboard-text="￣O￣)ノ　">晚上好</span></li>
+<li><p>(ToT)/~~~</p><span class="copyBtn" data-desc="挥手帕" data-clipboard-text="(ToT)/~~~">挥手帕</span></li>
+<li><p>(#`O′)</p><span class="copyBtn" data-desc="喂" data-clipboard-text="(#`O′)">喂</span></li>
+<li><p>ヾ(´･ω･｀)ﾉ</p><span class="copyBtn" data-desc="你好" data-clipboard-text="ヾ(´･ω･｀)ﾉ">你好</span></li>
+<li><p>Hi~ o(*￣▽￣*)ブ</p><span class="copyBtn" data-desc="Hi！" data-clipboard-text="Hi~ o(*￣▽￣*)ブ">Hi！</span></li>
+<li><p>ヾ(≧∇≦*)ゝ</p><span class="copyBtn" data-desc="嗨!" data-clipboard-text="ヾ(≧∇≦*)ゝ">嗨!</span></li>
+<li><p>(｡･∀･)ﾉﾞ</p><span class="copyBtn" data-desc="嗨!" data-clipboard-text="(｡･∀･)ﾉﾞ">嗨!</span></li>
+<li><p>[]~(￣▽￣)~*</p><span class="copyBtn" data-desc="干杯" data-clipboard-text="[]~(￣▽￣)~*">干杯</span></li>
+<li><p>(oﾟvﾟ)ノ</p><span class="copyBtn" data-desc="明白" data-clipboard-text="(oﾟvﾟ)ノ">明白</span></li>
+<li><p>o(*^▽^*)┛</p><span class="copyBtn" data-desc="举手" data-clipboard-text="o(*^▽^*)┛">举手</span></li>
+<li><p>（￣ー￣）ノ~~マ☆’.・.・:★</p><span class="copyBtn" data-desc="嗯哼" data-clipboard-text="（￣ー￣）ノ~~マ☆’.・.・:★">嗯哼</span></li>
+<li><p>&lt;(￣ˇ￣)/</p><span class="copyBtn" data-desc="得意" data-clipboard-text="<(￣ˇ￣)/">得意</span></li>
+<li><p>&lt;(ˉ^ˉ)&gt;</p><span class="copyBtn" data-desc="当然啦" data-clipboard-text="<(ˉ^ˉ)>">当然啦</span></li>
+<li><p>━━(￣ー￣*|||━━</p><span class="copyBtn" data-desc="淡定" data-clipboard-text="━━(￣ー￣*|||━━">淡定</span></li>
+<li><p>ʅ（´◔౪◔）ʃ</p><span class="copyBtn" data-desc="嘚瑟" data-clipboard-text="ʅ（´◔౪◔）ʃ">嘚瑟</span></li>
+<li><p>*★,°*:.☆(￣▽￣)/$:*.°★* 。</p><span class="copyBtn" data-desc="散花" data-clipboard-text="*★,°*:.☆(￣▽￣)/$:*.°★* 。">散花</span></li>
+<li><p>︿(￣︶￣)～</p><span class="copyBtn" data-desc="飘飘然" data-clipboard-text="︿(￣︶￣)～">飘飘然</span></li>
+<li><p>...φ(0￣*)啦啦啦_φ(*￣0￣)&gt;</p><span class="copyBtn" data-desc="啦啦啦" data-clipboard-text="...φ(0￣*)啦啦啦_φ(*￣0￣)>">啦啦啦</span></li>
+<li><p>&lt;(￣︶￣)&gt;</p><span class="copyBtn" data-desc="得意、满意" data-clipboard-text="<(￣︶￣)>">得意、满意</span></li>
+<li><p>～(￣▽￣～)(～￣▽￣)～</p><span class="copyBtn" data-desc="得瑟" data-clipboard-text="～(￣▽￣～)(～￣▽￣)～">得瑟</span></li>
+<li><p>^(*￣(oo)￣)^</p><span class="copyBtn" data-desc="猪" data-clipboard-text="^(*￣(oo)￣)^">猪</span></li>
+<li><p>U•ェ•*U</p><span class="copyBtn" data-desc="狗狗" data-clipboard-text="U•ェ•*U">狗狗</span></li>
+<li><p>(*￣(エ)￣)</p><span class="copyBtn" data-desc="熊" data-clipboard-text="(*￣(エ)￣)">熊</span></li>
+<li><p>(+(工)+╬)</p><span class="copyBtn" data-desc="熊" data-clipboard-text="(+(工)+╬)">熊</span></li>
+<li><p>_(:驴」∠)_</p><span class="copyBtn" data-desc="躺枪驴" data-clipboard-text="_(:驴」∠)_">躺枪驴</span></li>
+<li><p>( ఠൠఠ )ﾉ</p><span class="copyBtn" data-desc="牛" data-clipboard-text="( ఠൠఠ )ﾉ">牛</span></li>
+<li><p>--(˙&lt;&gt;˙)/--</p><span class="copyBtn" data-desc="鸟" data-clipboard-text="--(˙<>˙)/--">鸟</span></li>
+<li><p>m( =∩王∩= )m</p><span class="copyBtn" data-desc="老虎" data-clipboard-text="m( =∩王∩= )m">老虎</span></li>
+<li><p>(°°)～　(°°)～　(°°)～　(°°)～</p><span class="copyBtn" data-desc="一群蝌蚪" data-clipboard-text="(°°)～　(°°)～　(°°)～　(°°)～">一群蝌蚪</span></li>
+<li><p>（￣。。￣）</p><span class="copyBtn" data-desc="河马" data-clipboard-text="（￣。。￣）">河马</span></li>
+<li><p>(´･_･`)</p><span class="copyBtn" data-desc="发呆" data-clipboard-text="(´･_･`)">发呆</span></li>
+<li><p>•﹏•</p><span class="copyBtn" data-desc="撇嘴，发呆" data-clipboard-text="•﹏•">撇嘴，发呆</span></li>
+<li><p>(-@y@)</p><span class="copyBtn" data-desc="发呆，大眼睛盯住" data-clipboard-text="(-@y@)">发呆，大眼睛盯住</span></li>
+<li><p>━┳━　━┳━</p><span class="copyBtn" data-desc="呆" data-clipboard-text="━┳━　━┳━">呆</span></li>
+<li><p>(☄⊙ω⊙)☄</p><span class="copyBtn" data-desc="吓" data-clipboard-text="(☄⊙ω⊙)☄">吓</span></li>
+<li><p>ε=ε=ε=(~￣▽￣)~</p><span class="copyBtn" data-desc="跑" data-clipboard-text="ε=ε=ε=(~￣▽￣)~">跑</span></li>
+<li><p>||o(*°▽°*)o|Ю [有人吗?]</p><span class="copyBtn" data-desc="有人吗" data-clipboard-text="||o(*°▽°*)o|Ю [有人吗?]">有人吗</span></li>
+<li><p>ヽ(￣︿￣　)—C&lt;(/;◇;)/</p><span class="copyBtn" data-desc="小黑屋" data-clipboard-text="ヽ(￣︿￣　)—C<(/;◇;)/">小黑屋</span></li>
+<li><p>━((*′д｀)爻(′д｀*))━!!!!</p><span class="copyBtn" data-desc="怕怕" data-clipboard-text="━((*′д｀)爻(′д｀*))━!!!!">怕怕</span></li>
+<li><p>┐(T.T ) ( T.T) ノ</p><span class="copyBtn" data-desc="没人" data-clipboard-text="┐(T.T ) ( T.T) ノ">没人</span></li>
+<li><p>┌(。Д。)┐</p><span class="copyBtn" data-desc="恐怖" data-clipboard-text="┌(。Д。)┐">恐怖</span></li>
+<li><p>┏┛墓┗┓...(((m -__-)m</p><span class="copyBtn" data-desc="鬼呀" data-clipboard-text="┏┛墓┗┓...(((m -__-)m">鬼呀</span></li>
+<li><p>o((⊙﹏⊙))o.</p><span class="copyBtn" data-desc="抖~~" data-clipboard-text="o((⊙﹏⊙))o.">抖~~</span></li>
+<li><p>||Φ|(|T|Д|T|)|Φ||</p><span class="copyBtn" data-desc="放我出去" data-clipboard-text="||Φ|(|T|Д|T|)|Φ||">放我出去</span></li>
+<li><p>(:.;ﾟ;益;ﾟ;益;ﾟ;ﾟ;益;ﾟ;益;ﾟ;.)</p><span class="copyBtn" data-desc="吓死啦" data-clipboard-text="(:.;ﾟ;益;ﾟ;益;ﾟ;ﾟ;益;ﾟ;益;ﾟ;.)">吓死啦</span></li>
+<li><p>(*Φ皿Φ*)</p><span class="copyBtn" data-desc="吓" data-clipboard-text="(*Φ皿Φ*)">吓</span></li>
+<li><p>ヽ(*。&gt;Д&lt;)o゜</p><span class="copyBtn" data-desc="太可怕了" data-clipboard-text="ヽ(*。>Д<)o゜">太可怕了</span></li>
+<li><p>Σ( ° △ °|||)︴</p><span class="copyBtn" data-desc="受惊，害怕" data-clipboard-text="Σ( ° △ °|||)︴">受惊，害怕</span></li>
+<li><p>|ω・）</p><span class="copyBtn" data-desc="偷瞄，害羞" data-clipboard-text="|ω・）">偷瞄，害羞</span></li>
+<li><p>|･ω･｀)</p><span class="copyBtn" data-desc="躲在墙后偷瞄" data-clipboard-text="|･ω･｀)">躲在墙后偷瞄</span></li>
+<li><p>◕ฺ‿◕ฺ✿ฺ)</p><span class="copyBtn" data-desc="羞" data-clipboard-text="◕ฺ‿◕ฺ✿ฺ)">羞</span></li>
+<li><p>つ﹏⊂</p><span class="copyBtn" data-desc="捂脸" data-clipboard-text="つ﹏⊂">捂脸</span></li>
+<li><p>(* /ω＼*)</p><span class="copyBtn" data-desc="捂脸" data-clipboard-text="(* /ω＼*)">捂脸</span></li>
+<li><p>o(*////▽////*)q</p><span class="copyBtn" data-desc="shy（害羞的、畏缩的）" data-clipboard-text="o(*////▽////*)q">shy（害羞的、畏缩的）</span></li>
+<li><p>(*/ω＼*)</p><span class="copyBtn" data-desc="脸红" data-clipboard-text="(*/ω＼*)">脸红</span></li>
+<li><p>(′▽`〃)</p><span class="copyBtn" data-desc="害羞" data-clipboard-text="(′▽`〃)">害羞</span></li>
+<li><p>(✿◡‿◡)</p><span class="copyBtn" data-desc="害羞" data-clipboard-text="(✿◡‿◡)">害羞</span></li>
+<li><p>(/▽＼)</p><span class="copyBtn" data-desc="不看" data-clipboard-text="(/▽＼)">不看</span></li>
+<li><p>(๑´ㅂ`๑)</p><span class="copyBtn" data-desc="乐，害羞" data-clipboard-text="(๑´ㅂ`๑)">乐，害羞</span></li>
+<li><p>@(｡･o･)@</p><span class="copyBtn" data-desc="猴子" data-clipboard-text="@(｡･o･)@">猴子</span></li>
+<li><p>@(o･ｪ･)@</p><span class="copyBtn" data-desc="猴" data-clipboard-text="@(o･ｪ･)@">猴</span></li>
+<li><p>ヽ( o･ｪ･)ﾉ&nbsp;</p><span class="copyBtn" data-desc="猴子" data-clipboard-text="ヽ( o･ｪ･)ﾉ&nbsp;">猴子</span></li>
+<li><p>@(/o･ｪ･o)@/</p><span class="copyBtn" data-desc="猴子" data-clipboard-text="@(/o･ｪ･o)@/">猴子</span></li>
+<li><p>@(o･ｪ･o)@</p><span class="copyBtn" data-desc="猴" data-clipboard-text="@(o･ｪ･o)@">猴</span></li>
+<li><p>٩(͡๏̯͡๏)۶</p><span class="copyBtn" data-desc="猴子" data-clipboard-text="٩(͡๏̯͡๏)۶">猴子</span></li>
+<li><p>『家』 ～o(▽｀ o) =3 =3 =3</p><span class="copyBtn" data-desc="回家" data-clipboard-text="『家』 ～o(▽｀ o) =3 =3 =3">回家</span></li>
+<li><p>(～o￣▽￣)～o ~。。。</p><span class="copyBtn" data-desc="我来了" data-clipboard-text="(～o￣▽￣)～o ~。。。">我来了</span></li>
+<li><p>~(～￣▽￣)～</p><span class="copyBtn" data-desc="我来了" data-clipboard-text="~(～￣▽￣)～">我来了</span></li>
+<li><p>||ヽ(*￣▽￣*)ノミ|Ю</p><span class="copyBtn" data-desc="我回来啦" data-clipboard-text="||ヽ(*￣▽￣*)ノミ|Ю">我回来啦</span></li>
+<li><p>ヾ(^▽^*)))</p><span class="copyBtn" data-desc="我回来了，高兴" data-clipboard-text="ヾ(^▽^*)))">我回来了，高兴</span></li>
+<li><p>┏ (^ω^)=☞</p><span class="copyBtn" data-desc="就是他，幸灾乐祸" data-clipboard-text="┏ (^ω^)=☞">就是他，幸灾乐祸</span></li>
+<li><p>→_←</p><span class="copyBtn" data-desc="斗鸡眼，挤眉弄眼" data-clipboard-text="→_←">斗鸡眼，挤眉弄眼</span></li>
+<li><p>◑▂◐</p><span class="copyBtn" data-desc="斗鸡眼" data-clipboard-text="◑▂◐">斗鸡眼</span></li>
+<li><p>( ‵▽′)ψ</p><span class="copyBtn" data-desc="邪恶" data-clipboard-text="( ‵▽′)ψ">邪恶</span></li>
+<li><p>ԅ(¯﹃¯ԅ)</p><span class="copyBtn" data-desc="使坏" data-clipboard-text="ԅ(¯﹃¯ԅ)">使坏</span></li>
+<li><p>ᕕ( ᐛ )ᕗ</p><span class="copyBtn" data-desc="赖" data-clipboard-text="ᕕ( ᐛ )ᕗ">赖</span></li>
+<li><p>（〃｀ 3′〃）</p><span class="copyBtn" data-desc="撅嘴" data-clipboard-text="（〃｀ 3′〃）">撅嘴</span></li>
+<li><p>(￫ܫ￩)</p><span class="copyBtn" data-desc="鬼脸" data-clipboard-text="(￫ܫ￩)">鬼脸</span></li>
+<li><p>( &gt;ρ &lt; ”)</p><span class="copyBtn" data-desc="吐口水" data-clipboard-text="( >ρ < ”)">吐口水</span></li>
+<li><p>┬┴┤_•)</p><span class="copyBtn" data-desc="偷窥" data-clipboard-text="┬┴┤_•)">偷窥</span></li>
+<li><p>’(°ー°〃)</p><span class="copyBtn" data-desc="愣住" data-clipboard-text="’(°ー°〃)">愣住</span></li>
+<li><p>(ーー゛)</p><span class="copyBtn" data-desc="我勒个去" data-clipboard-text="(ーー゛)">我勒个去</span></li>
+<li><p>(○´･д･)ﾉ</p><span class="copyBtn" data-desc="震惊" data-clipboard-text="(○´･д･)ﾉ">震惊</span></li>
+<li><p>wow~ ⊙o⊙</p><span class="copyBtn" data-desc="wow~ （哇！呀！）" data-clipboard-text="wow~ ⊙o⊙">wow~ （哇！呀！）</span></li>
+<li><p>~(￣0￣)/</p><span class="copyBtn" data-desc="神啊" data-clipboard-text="~(￣0￣)/">神啊</span></li>
+<li><p>Σ(｀д′*ノ)ノ</p><span class="copyBtn" data-desc="惊" data-clipboard-text="Σ(｀д′*ノ)ノ">惊</span></li>
+<li><p>Σ(っ °Д °;)っ</p><span class="copyBtn" data-desc="惊讶" data-clipboard-text="Σ(っ °Д °;)っ">惊讶</span></li>
+<li><p>(⊙ˍ⊙)</p><span class="copyBtn" data-desc="惊" data-clipboard-text="(⊙ˍ⊙)">惊</span></li>
+<li><p>w(ﾟДﾟ)w</p><span class="copyBtn" data-desc="啊啊" data-clipboard-text="w(ﾟДﾟ)w">啊啊</span></li>
+<li><p>ｍ(o・ω・o)ｍ</p><span class="copyBtn" data-desc="哦？" data-clipboard-text="ｍ(o・ω・o)ｍ">哦？</span></li>
+<li><p>(＾Ｕ＾)ノ~ＹＯ</p><span class="copyBtn" data-desc="哟！" data-clipboard-text="(＾Ｕ＾)ノ~ＹＯ">哟！</span></li>
+<li><p>♪(´∇`*)</p><span class="copyBtn" data-desc="天啊" data-clipboard-text="♪(´∇`*)">天啊</span></li>
+<li><p>⊙▽⊙</p><span class="copyBtn" data-desc="惊讶" data-clipboard-text="⊙▽⊙">惊讶</span></li>
+<li><p>━━∑(￣□￣*|||━━</p><span class="copyBtn" data-desc="石化" data-clipboard-text="━━∑(￣□￣*|||━━">石化</span></li>
+<li><p>|(*′口`)</p><span class="copyBtn" data-desc="汗死" data-clipboard-text="|(*′口`)">汗死</span></li>
+<li><p>……]((o_ _)'彡☆</p><span class="copyBtn" data-desc="跌倒" data-clipboard-text="……]((o_ _)'彡☆">跌倒</span></li>
+<li><p>(*￣rǒ￣)</p><span class="copyBtn" data-desc="挖鼻屎" data-clipboard-text="(*￣rǒ￣)">挖鼻屎</span></li>
+<li><p>○|￣|_ =3</p><span class="copyBtn" data-desc="放屁" data-clipboard-text="○|￣|_ =3">放屁</span></li>
+<li><p>(°ー°〃)</p><span class="copyBtn" data-desc="愣住" data-clipboard-text="(°ー°〃)">愣住</span></li>
+<li><p>(￣△￣；)</p><span class="copyBtn" data-desc="呆滞" data-clipboard-text="(￣△￣；)">呆滞</span></li>
+<li><p>テ_デ</p><span class="copyBtn" data-desc="泪流满面" data-clipboard-text="テ_デ">泪流满面</span></li>
+<li><p>□_□</p><span class="copyBtn" data-desc="快哭了" data-clipboard-text="□_□">快哭了</span></li>
+<li><p>┭┮﹏┭┮</p><span class="copyBtn" data-desc="呜呜呜" data-clipboard-text="┭┮﹏┭┮">呜呜呜</span></li>
+<li><p>╥﹏╥...</p><span class="copyBtn" data-desc="委屈" data-clipboard-text="╥﹏╥...">委屈</span></li>
+<li><p>o(TヘTo)</p><span class="copyBtn" data-desc="TAT" data-clipboard-text="o(TヘTo)">TAT</span></li>
+<li><p>〒▽〒</p><span class="copyBtn" data-desc="内牛满面" data-clipboard-text="〒▽〒">内牛满面</span></li>
+<li><p>ε(┬┬﹏┬┬)3</p><span class="copyBtn" data-desc="苦命的娃" data-clipboard-text="ε(┬┬﹏┬┬)3">苦命的娃</span></li>
+<li><p>(;´༎ຶД༎ຶ`)</p><span class="copyBtn" data-desc="哭死" data-clipboard-text="(;´༎ຶД༎ຶ`)">哭死</span></li>
+<li><p>(ノへ`、)</p><span class="copyBtn" data-desc="擦眼泪" data-clipboard-text="(ノへ`、)">擦眼泪</span></li>
+<li><p>(￣ ‘i ￣;)</p><span class="copyBtn" data-desc="鼻涕虫" data-clipboard-text="(￣ ‘i ￣;)">鼻涕虫</span></li>
+<li><p>（-_-。）</p><span class="copyBtn" data-desc="呜呜呜~" data-clipboard-text="（-_-。）">呜呜呜~</span></li>
+<li><p>(ノへ￣、)</p><span class="copyBtn" data-desc="擦眼泪" data-clipboard-text="(ノへ￣、)">擦眼泪</span></li>
+<li><p>( -'`-)</p><span class="copyBtn" data-desc="困恼" data-clipboard-text="( -'`-)">困恼</span></li>
+<li><p>(=′ー`)</p><span class="copyBtn" data-desc="这样么" data-clipboard-text="(=′ー`)">这样么</span></li>
+<li><p>( -'`-; )</p><span class="copyBtn" data-desc="困恼" data-clipboard-text="( -'`-; )">困恼</span></li>
+<li><p>(・-・*)</p><span class="copyBtn" data-desc="大概。。。" data-clipboard-text="(・-・*)">大概。。。</span></li>
+<li><p>┌|*´∀｀|┘</p><span class="copyBtn" data-desc="愁呀" data-clipboard-text="┌|*´∀｀|┘">愁呀</span></li>
+<li><p>(σ｀д′)σ</p><span class="copyBtn" data-desc="是不是你" data-clipboard-text="(σ｀д′)σ">是不是你</span></li>
+<li><p>( ｀д′)</p><span class="copyBtn" data-desc="什么东西" data-clipboard-text="( ｀д′)">什么东西</span></li>
+<li><p>⊙▾⊙</p><span class="copyBtn" data-desc="是这样吗？" data-clipboard-text="⊙▾⊙">是这样吗？</span></li>
+<li><p>(￣m￣）</p><span class="copyBtn" data-desc="是么？" data-clipboard-text="(￣m￣）">是么？</span></li>
+<li><p>( ╯▽╰)</p><span class="copyBtn" data-desc="皱眉，欣慰" data-clipboard-text="( ╯▽╰)">皱眉，欣慰</span></li>
+<li><p>(๑￫ܫ￩)</p><span class="copyBtn" data-desc="卖萌的猫" data-clipboard-text="(๑￫ܫ￩)">卖萌的猫</span></li>
+<li><p>(=^x^=)</p><span class="copyBtn" data-desc="萌猫" data-clipboard-text="(=^x^=)">萌猫</span></li>
+<li><p>o( =•ω•= )m</p><span class="copyBtn" data-desc="喵星人" data-clipboard-text="o( =•ω•= )m">喵星人</span></li>
+<li><p>≡ω≡</p><span class="copyBtn" data-desc="喵呜" data-clipboard-text="≡ω≡">喵呜</span></li>
+<li><p>~o( =∩ω∩= )m</p><span class="copyBtn" data-desc="猫喵" data-clipboard-text="~o( =∩ω∩= )m">猫喵</span></li>
+<li><p>o(=•ェ•=)m</p><span class="copyBtn" data-desc="猫" data-clipboard-text="o(=•ェ•=)m">猫</span></li>
+<li><p>(╯ε╰)</p><span class="copyBtn" data-desc="么么" data-clipboard-text="(╯ε╰)">么么</span></li>
+<li><p>(っ´Ι`)っ</p><span class="copyBtn" data-desc="亲亲你" data-clipboard-text="(っ´Ι`)っ">亲亲你</span></li>
+<li><p>o(*￣3￣)o</p><span class="copyBtn" data-desc="亲亲" data-clipboard-text="o(*￣3￣)o">亲亲</span></li>
+<li><p>（づ￣3￣）づ╭❤～</p><span class="copyBtn" data-desc="Mua，么么" data-clipboard-text="（づ￣3￣）づ╭❤～">Mua，么么</span></li>
+<li><p>(*╯3╰)</p><span class="copyBtn" data-desc="MUA（“么”，亲一下的意思）" data-clipboard-text="(*╯3╰)">MUA（“么”，亲一下的意思）</span></li>
+<li><p>!(*￣(￣　*)</p><span class="copyBtn" data-desc="kiss" data-clipboard-text="!(*￣(￣　*)">kiss</span></li>
+<li><p>(*￣3￣)╭</p><span class="copyBtn" data-desc="飞吻" data-clipboard-text="(*￣3￣)╭">飞吻</span></li>
+<li><p>(* ￣3)(ε￣ *)</p><span class="copyBtn" data-desc="啵啵" data-clipboard-text="(* ￣3)(ε￣ *)">啵啵</span></li>
+<li><p>（○｀ 3′○）</p><span class="copyBtn" data-desc="么么" data-clipboard-text="（○｀ 3′○）">么么</span></li>
+<li><p>( *￣▽￣)((≧︶≦*)</p><span class="copyBtn" data-desc="蹭一下" data-clipboard-text="( *￣▽￣)((≧︶≦*)">蹭一下</span></li>
+<li><p>ﾍ(･_|</p><span class="copyBtn" data-desc="我在这里，快来找" data-clipboard-text="ﾍ(･_|">我在这里，快来找</span></li>
+<li><p>(๐॔˃̶ᗜ˂̶๐॓)</p><span class="copyBtn" data-desc="蠢哭" data-clipboard-text="(๐॔˃̶ᗜ˂̶๐॓)">蠢哭</span></li>
+<li><p>(o≖◡≖)</p><span class="copyBtn" data-desc="臭美" data-clipboard-text="(o≖◡≖)">臭美</span></li>
+<li><p>(；′⌒`)</p><span class="copyBtn" data-desc="哼哼" data-clipboard-text="(；′⌒`)">哼哼</span></li>
+<li><p>￣へ￣</p><span class="copyBtn" data-desc="不开心" data-clipboard-text="￣へ￣">不开心</span></li>
+<li><p>（*゜ー゜*）</p><span class="copyBtn" data-desc="才知道啊" data-clipboard-text="（*゜ー゜*）">才知道啊</span></li>
+<li><p>(～o￣3￣)～</p><span class="copyBtn" data-desc="漂" data-clipboard-text="(～o￣3￣)～">漂</span></li>
+<li><p>=￣ω￣=</p><span class="copyBtn" data-desc="卖萌" data-clipboard-text="=￣ω￣=">卖萌</span></li>
+<li><p>（*＾-＾*）</p><span class="copyBtn" data-desc="好可爱啊" data-clipboard-text="（*＾-＾*）">好可爱啊</span></li>
+<li><p>(～o￣▽￣)～o 。。。</p><span class="copyBtn" data-desc="滚来滚去" data-clipboard-text="(～o￣▽￣)～o 。。。">滚来滚去</span></li>
+<li><p>o(*^＠^*)o</p><span class="copyBtn" data-desc="乖" data-clipboard-text="o(*^＠^*)o">乖</span></li>
+<li><p>ヾ(´∀`o)+</p><span class="copyBtn" data-desc="笨人" data-clipboard-text="ヾ(´∀`o)+">笨人</span></li>
+<li><p>(っ*´Д`)っ</p><span class="copyBtn" data-desc="笨蛋" data-clipboard-text="(っ*´Д`)っ">笨蛋</span></li>
+<li><p>(～￣(OO)￣)ブ</p><span class="copyBtn" data-desc="笨" data-clipboard-text="(～￣(OO)￣)ブ">笨</span></li>
+<li><p>(&gt;▽&lt;)</p><span class="copyBtn" data-desc="嗷~~" data-clipboard-text="(>▽<)">嗷~~</span></li>
+<li><p>(*ﾟｰﾟ)</p><span class="copyBtn" data-desc="嘴角" data-clipboard-text="(*ﾟｰﾟ)">嘴角</span></li>
+<li><p>*(੭*ˊᵕˋ)੭*ଘ</p><span class="copyBtn" data-desc="自拍，美美哒" data-clipboard-text="*(੭*ˊᵕˋ)੭*ଘ">自拍，美美哒</span></li>
+<li><p>( ͡° ͜ʖ ͡°)</p><span class="copyBtn" data-desc="矜持" data-clipboard-text="( ͡° ͜ʖ ͡°)">矜持</span></li>
+<li><p>|_・)</p><span class="copyBtn" data-desc="缩在一角" data-clipboard-text="|_・)">缩在一角</span></li>
+<li><p>X﹏X</p><span class="copyBtn" data-desc="糟糕了" data-clipboard-text="X﹏X">糟糕了</span></li>
+<li><p>_( ﾟДﾟ)ﾉ</p><span class="copyBtn" data-desc="举手" data-clipboard-text="_( ﾟДﾟ)ﾉ">举手</span></li>
+<li><p>(/0￣)o [呼唤]</p><span class="copyBtn" data-desc="呼唤" data-clipboard-text="(/0￣)o [呼唤]">呼唤</span></li>
+<li><p>φ(-ω-*)</p><span class="copyBtn" data-desc="去你的" data-clipboard-text="φ(-ω-*)">去你的</span></li>
+<li><p>(ﾟДﾟ*)ﾉ</p><span class="copyBtn" data-desc="我反对" data-clipboard-text="(ﾟДﾟ*)ﾉ">我反对</span></li>
+<li><p>(      。＿ 。） ✎ ＿</p><span class="copyBtn" data-desc="书写" data-clipboard-text="(      。＿ 。） ✎ ＿">书写</span></li>
+<li><p>( ´_ゝ`)✎</p><span class="copyBtn" data-desc="写字" data-clipboard-text="( ´_ゝ`)✎">写字</span></li>
+<li><p>✎～～～✐</p><span class="copyBtn" data-desc="写写写" data-clipboard-text="✎～～～✐">写写写</span></li>
+<li><p>谢啦!!☆⌒(*＾-゜)v</p><span class="copyBtn" data-desc="谢谢啦" data-clipboard-text="谢啦!!☆⌒(*＾-゜)v">谢谢啦</span></li>
+<li><p>☆⌒(*＾-゜)v THX!!</p><span class="copyBtn" data-desc="THX（THANKS缩写，谢谢）" data-clipboard-text="☆⌒(*＾-゜)v THX!!">THX（THANKS缩写，谢谢）</span></li>
+<li><p>(◆゜∀゜）b</p><span class="copyBtn" data-desc="恭喜" data-clipboard-text="(◆゜∀゜）b">恭喜</span></li>
+<li><p>(ง •_•)ง</p><span class="copyBtn" data-desc="加油" data-clipboard-text="(ง •_•)ง">加油</span></li>
+<li><p>(❤´艸｀❤)</p><span class="copyBtn" data-desc="花痴" data-clipboard-text="(❤´艸｀❤)">花痴</span></li>
+<li><p>○( ＾皿＾)っHiahiahia…</p><span class="copyBtn" data-desc="HIA HIA~~~~（表示很猥琐的笑）" data-clipboard-text="○( ＾皿＾)っHiahiahia…">HIA HIA~~~~（表示很猥琐的笑）</span></li>
+<li><p>┗|*｀0′*|┛</p><span class="copyBtn" data-desc="肌肉" data-clipboard-text="┗|*｀0′*|┛">肌肉</span></li>
+<li><p>ヽ(￣ω￣(￣ω￣〃)ゝ</p><span class="copyBtn" data-desc="义气" data-clipboard-text="ヽ(￣ω￣(￣ω￣〃)ゝ">义气</span></li>
+<li><p>$_$</p><span class="copyBtn" data-desc="贪心，见钱眼开" data-clipboard-text="$_$">贪心，见钱眼开</span></li>
+<li><p>(O_o)(o_O)</p><span class="copyBtn" data-desc="大眼瞪小眼" data-clipboard-text="(O_o)(o_O)">大眼瞪小眼</span></li>
+<li><p>→_→</p><span class="copyBtn" data-desc="往右瞄" data-clipboard-text="→_→">往右瞄</span></li>
+<li><p>←_←</p><span class="copyBtn" data-desc="往左瞄" data-clipboard-text="←_←">往左瞄</span></li>
+<li><p>（ ￣ー￣）</p><span class="copyBtn" data-desc="冷笑" data-clipboard-text="（ ￣ー￣）">冷笑</span></li>
+<li><p>(ρ_・).。</p><span class="copyBtn" data-desc="累" data-clipboard-text="(ρ_・).。">累</span></li>
+<li><p>(－∀＝)</p><span class="copyBtn" data-desc="无言" data-clipboard-text="(－∀＝)">无言</span></li>
+<li><p>分＞(￣▽￣ = ￣︿￣)&lt;裂</p><span class="copyBtn" data-desc="分裂" data-clipboard-text="分＞(￣▽￣ = ￣︿￣)<裂">分裂</span></li>
+<li><p>_____λ......___丬 别走啊～～</p><span class="copyBtn" data-desc="别走" data-clipboard-text="_____λ......___丬 别走啊～～">别走</span></li>
+<li><p>～(　TロT)σ</p><span class="copyBtn" data-desc="坏人" data-clipboard-text="～(　TロT)σ">坏人</span></li>
+<li><p>＼(゜ロ＼)(／ロ゜)／</p><span class="copyBtn" data-desc="讨厌" data-clipboard-text="＼(゜ロ＼)(／ロ゜)／">讨厌</span></li>
+<li><p>&lt;(－︿－)&gt;</p><span class="copyBtn" data-desc="生气" data-clipboard-text="<(－︿－)>">生气</span></li>
+<li><p>(ー`´ー)</p><span class="copyBtn" data-desc="皱眉" data-clipboard-text="(ー`´ー)">皱眉</span></li>
+<li><p>（｀へ´）</p><span class="copyBtn" data-desc="生气，哼" data-clipboard-text="（｀へ´）">生气，哼</span></li>
+<li><p>(-__-)=@))&gt; o&lt;)</p><span class="copyBtn" data-desc="去死" data-clipboard-text="(-__-)=@))> o<)">去死</span></li>
+<li><p>ε=怒ε=怒ε=怒ε=( o｀ω′)ノ</p><span class="copyBtn" data-desc="大怒" data-clipboard-text="ε=怒ε=怒ε=怒ε=( o｀ω′)ノ">大怒</span></li>
+<li><p>&lt;( ‵□′)&gt;───Ｃε(┬﹏┬)3</p><span class="copyBtn" data-desc="捏耳朵" data-clipboard-text="<( ‵□′)>───Ｃε(┬﹏┬)3">捏耳朵</span></li>
+<li><p>(///￣皿￣)○～</p><span class="copyBtn" data-desc="哪里跑" data-clipboard-text="(///￣皿￣)○～">哪里跑</span></li>
+<li><p>（＝。＝）</p><span class="copyBtn" data-desc="可恶" data-clipboard-text="（＝。＝）">可恶</span></li>
+<li><p>┻━┻︵╰(‵□′)╯︵┻━┻</p><span class="copyBtn" data-desc="双手掀翻桌子" data-clipboard-text="┻━┻︵╰(‵□′)╯︵┻━┻">双手掀翻桌子</span></li>
+<li><p>→)╥﹏╥)</p><span class="copyBtn" data-desc="抽脸" data-clipboard-text="→)╥﹏╥)">抽脸</span></li>
+<li><p>抽!!(￣ε(#￣)☆╰╮(￣▽￣///)</p><span class="copyBtn" data-desc="抽你" data-clipboard-text="抽!!(￣ε(#￣)☆╰╮(￣▽￣///)">抽你</span></li>
+<li><p>(￣ε(#￣)☆╰╮o(￣皿￣///)</p><span class="copyBtn" data-desc="扇耳光" data-clipboard-text="(￣ε(#￣)☆╰╮o(￣皿￣///)">扇耳光</span></li>
+<li><p>&lt;)。(&gt;</p><span class="copyBtn" data-desc="叉腰" data-clipboard-text="<)。(>">叉腰</span></li>
+<li><p>(* ￣︿￣)</p><span class="copyBtn" data-desc="不爽" data-clipboard-text="(* ￣︿￣)">不爽</span></li>
+<li><p>(*￣︿￣)</p><span class="copyBtn" data-desc="不满" data-clipboard-text="(*￣︿￣)">不满</span></li>
+<li><p>（＃￣～￣＃）</p><span class="copyBtn" data-desc="不满" data-clipboard-text="（＃￣～￣＃）">不满</span></li>
+<li><p>(⊙x⊙;)</p><span class="copyBtn" data-desc="闭嘴" data-clipboard-text="(⊙x⊙;)">闭嘴</span></li>
+<li><p>(ノω&lt;。)ノ))☆.。</p><span class="copyBtn" data-desc="讨厌啦" data-clipboard-text="(ノω<。)ノ))☆.。">讨厌啦</span></li>
+<li><p>o(*≧▽≦)ツ┏━┓</p><span class="copyBtn" data-desc="掀桌，发飙" data-clipboard-text="o(*≧▽≦)ツ┏━┓">掀桌，发飙</span></li>
+<li><p>´･∀･)乂(･∀･｀</p><span class="copyBtn" data-desc="死吧" data-clipboard-text="´･∀･)乂(･∀･｀">死吧</span></li>
+<li><p>( σ'ω')σ</p><span class="copyBtn" data-desc="告状" data-clipboard-text="( σ'ω')σ">告状</span></li>
+<li><p>o(′益`)o</p><span class="copyBtn" data-desc="纠结" data-clipboard-text="o(′益`)o">纠结</span></li>
+<li><p>(〃＞目＜)</p><span class="copyBtn" data-desc="可恶" data-clipboard-text="(〃＞目＜)">可恶</span></li>
+<li><p>o(≧口≦)o</p><span class="copyBtn" data-desc="崩溃" data-clipboard-text="o(≧口≦)o">崩溃</span></li>
+<li><p>Ｏ(≧口≦)Ｏ</p><span class="copyBtn" data-desc="啊啊啊" data-clipboard-text="Ｏ(≧口≦)Ｏ">啊啊啊</span></li>
+<li><p>...(*￣０￣)ノ[等等我…]</p><span class="copyBtn" data-desc="等等我~" data-clipboard-text="...(*￣０￣)ノ[等等我…]">等等我~</span></li>
+<li><p>（≧0≦）</p><span class="copyBtn" data-desc="呀~~~抓狂" data-clipboard-text="（≧0≦）">呀~~~抓狂</span></li>
+<li><p>(つω｀)～</p><span class="copyBtn" data-desc="眠" data-clipboard-text="(つω｀)～">眠</span></li>
+<li><p>(o-ωｑ)).oO 困</p><span class="copyBtn" data-desc="困啊" data-clipboard-text="(o-ωｑ)).oO 困">困啊</span></li>
+<li><p>(p.-)(p.-)(p.-)</p><span class="copyBtn" data-desc="困死了" data-clipboard-text="(p.-)(p.-)(p.-)">困死了</span></li>
+<li><p>(￣o￣) . z Z</p><span class="copyBtn" data-desc="困了" data-clipboard-text="(￣o￣) . z Z">困了</span></li>
+<li><p>(_ _)( - . - )(~O~) ……( - . - )</p><span class="copyBtn" data-desc="打哈欠" data-clipboard-text="(_ _)( - . - )(~O~) ……( - . - )">打哈欠</span></li>
+<li><p>(+.+)(-.-)(_ _) ..zzZZ もうだめ</p><span class="copyBtn" data-desc="不行了，困死了" data-clipboard-text="(+.+)(-.-)(_ _) ..zzZZ もうだめ">不行了，困死了</span></li>
+<li><p>╯_╰</p><span class="copyBtn" data-desc="无精打采" data-clipboard-text="╯_╰">无精打采</span></li>
+<li><p>ZZzz…(。-ω-)..ooO(•:*:~:*:•)</p><span class="copyBtn" data-desc="做梦" data-clipboard-text="ZZzz…(。-ω-)..ooO(•:*:~:*:•)">做梦</span></li>
+<li><p>※=○☆(＿＿*)Ｚｚｚ</p><span class="copyBtn" data-desc="起床" data-clipboard-text="※=○☆(＿＿*)Ｚｚｚ">起床</span></li>
+<li><p>☆{{{Д}}} ☆!! [铃铃铃]</p><span class="copyBtn" data-desc="闹钟" data-clipboard-text="☆{{{Д}}} ☆!! [铃铃铃]">闹钟</span></li>
+<li><p>ZZzz…(。-ω-)..ooO((【•:*:~夢~:*:•】))</p><span class="copyBtn" data-desc="做梦" data-clipboard-text="ZZzz…(。-ω-)..ooO((【•:*:~夢~:*:•】))">做梦</span></li>
+<li><p>ZZzz…(。-ω-)</p><span class="copyBtn" data-desc="睡着，呼噜声" data-clipboard-text="ZZzz…(。-ω-)">睡着，呼噜声</span></li>
+<li><p>｜−・;）</p><span class="copyBtn" data-desc="躲着" data-clipboard-text="｜−・;）">躲着</span></li>
+<li><p>^_~</p><span class="copyBtn" data-desc="俏皮地眨眼睛" data-clipboard-text="^_~">俏皮地眨眼睛</span></li>
+<li><p>o(￣ヘ￣o＃)</p><span class="copyBtn" data-desc="哼，不理你" data-clipboard-text="o(￣ヘ￣o＃)">哼，不理你</span></li>
+<li><p>(/ω＼*)……… (/ω•＼*)</p><span class="copyBtn" data-desc="偷瞄，偷看" data-clipboard-text="(/ω＼*)……… (/ω•＼*)">偷瞄，偷看</span></li>
+<li><p>&lt;( ‵□′)───C＜─___-)||</p><span class="copyBtn" data-desc="捏脸" data-clipboard-text="<( ‵□′)───C＜─___-)||">捏脸</span></li>
+<li><p>ο(=•ω＜=)ρ⌒☆</p><span class="copyBtn" data-desc="媚眼" data-clipboard-text="ο(=•ω＜=)ρ⌒☆">媚眼</span></li>
+<li><p>(￣┰￣*)</p><span class="copyBtn" data-desc="鬼脸" data-clipboard-text="(￣┰￣*)">鬼脸</span></li>
+<li><p>(o゜▽゜)o☆</p><span class="copyBtn" data-desc="有了" data-clipboard-text="(o゜▽゜)o☆">有了</span></li>
+<li><p>o(￣ε￣*)</p><span class="copyBtn" data-desc="嘟嘴，亲亲" data-clipboard-text="o(￣ε￣*)">嘟嘴，亲亲</span></li>
+<li><p>＼（＾▽＾）／　</p><span class="copyBtn" data-desc="太好了&amp;要抱抱" data-clipboard-text="＼（＾▽＾）／　">太好了&amp;要抱抱</span></li>
+<li><p>ε=ε=ε=┏(゜ロ゜;)┛</p><span class="copyBtn" data-desc="逃，跑步" data-clipboard-text="ε=ε=ε=┏(゜ロ゜;)┛">逃，跑步</span></li>
+<li><p>…（⊙＿⊙；）…</p><span class="copyBtn" data-desc="逃" data-clipboard-text="…（⊙＿⊙；）…">逃</span></li>
+<li><p>…〒_〒…‵ｏ′-一┳═┻︻▄</p><span class="copyBtn" data-desc="自杀" data-clipboard-text="…〒_〒…‵ｏ′-一┳═┻︻▄">自杀</span></li>
+<li><p>┗( T﹏T )┛</p><span class="copyBtn" data-desc="我错了，我投降" data-clipboard-text="┗( T﹏T )┛">我错了，我投降</span></li>
+<li><p>//(っ °Д °;)っ</p><span class="copyBtn" data-desc="倒" data-clipboard-text="//(っ °Д °;)っ">倒</span></li>
+<li><p>～（□`）～</p><span class="copyBtn" data-desc="逃跑" data-clipboard-text="～（□`）～">逃跑</span></li>
+<li><p>ヽ（≧□≦）ノ</p><span class="copyBtn" data-desc="不要啊" data-clipboard-text="ヽ（≧□≦）ノ">不要啊</span></li>
+<li><p>(。・・)ノ</p><span class="copyBtn" data-desc="弱" data-clipboard-text="(。・・)ノ">弱</span></li>
+<li><p>ε = = (づ′▽`)づ</p><span class="copyBtn" data-desc="跑" data-clipboard-text="ε = = (づ′▽`)づ">跑</span></li>
+<li><p>ヽ(ﾟ∀ﾟ*)ﾉ━━━ｩ♪</p><span class="copyBtn" data-desc="逃之夭夭" data-clipboard-text="ヽ(ﾟ∀ﾟ*)ﾉ━━━ｩ♪">逃之夭夭</span></li>
+<li><p>””(￣ー￣)/””</p><span class="copyBtn" data-desc="没了" data-clipboard-text="””(￣ー￣)/””">没了</span></li>
+<li><p>ㄟ( ▔, ▔ )ㄏ</p><span class="copyBtn" data-desc="不是我" data-clipboard-text="ㄟ( ▔, ▔ )ㄏ">不是我</span></li>
+<li><p>(。_。)</p><span class="copyBtn" data-desc="受打击，委屈" data-clipboard-text="(。_。)">受打击，委屈</span></li>
+<li><p>（o´・ェ・｀o）</p><span class="copyBtn" data-desc="无辜" data-clipboard-text="（o´・ェ・｀o）">无辜</span></li>
+<li><p>不＞(￣ε￣ = ￣3￣)&lt;要</p><span class="copyBtn" data-desc="不要啊" data-clipboard-text="不＞(￣ε￣ = ￣3￣)<要">不要啊</span></li>
+<li><p>(┬＿┬)↘</p><span class="copyBtn" data-desc="跌倒" data-clipboard-text="(┬＿┬)↘">跌倒</span></li>
+<li><p>...( ＿ ＿)ノ｜壁</p><span class="copyBtn" data-desc="扶墙，痛苦" data-clipboard-text="...( ＿ ＿)ノ｜壁">扶墙，痛苦</span></li>
+<li><p>凸(艹皿艹 )</p><span class="copyBtn" data-desc="擦" data-clipboard-text="凸(艹皿艹 )">擦</span></li>
+<li><p>[喝西北风](　′Д`)彡</p><span class="copyBtn" data-desc="喝西北方" data-clipboard-text="[喝西北风](　′Д`)彡">喝西北方</span></li>
+<li><p>( ′ 3`) sigh~</p><span class="copyBtn" data-desc="sigh（叹气）" data-clipboard-text="( ′ 3`) sigh~">sigh（叹气）</span></li>
+<li><p>○|￣|_</p><span class="copyBtn" data-desc="orz（五体投地）" data-clipboard-text="○|￣|_">orz（五体投地）</span></li>
+<li><p>((*・∀・）ゞ→→</p><span class="copyBtn" data-desc="这" data-clipboard-text="((*・∀・）ゞ→→">这</span></li>
+<li><p>╮(╯▽╰)╭</p><span class="copyBtn" data-desc="无奈" data-clipboard-text="╮(╯▽╰)╭">无奈</span></li>
+<li><p>┑(￣Д ￣)┍</p><span class="copyBtn" data-desc="摊手" data-clipboard-text="┑(￣Д ￣)┍">摊手</span></li>
+<li><p>.....~~((/- -)/</p><span class="copyBtn" data-desc="飘过" data-clipboard-text=".....~~((/- -)/">飘过</span></li>
+<li><p>╮（╯＿╰）╭</p><span class="copyBtn" data-desc="没办法了" data-clipboard-text="╮（╯＿╰）╭">没办法了</span></li>
+<li><p>-________-''</p><span class="copyBtn" data-desc="呃呃呃" data-clipboard-text="-________-''">呃呃呃</span></li>
+<li><p>(⊙﹏⊙)</p><span class="copyBtn" data-desc="呃呃呃" data-clipboard-text="(⊙﹏⊙)">呃呃呃</span></li>
+<li><p>(o_ _)ﾉ</p><span class="copyBtn" data-desc="败了" data-clipboard-text="(o_ _)ﾉ">败了</span></li>
+<li><p>￣△￣</p><span class="copyBtn" data-desc="那个（不好意思）" data-clipboard-text="￣△￣">那个（不好意思）</span></li>
+<li><p>&lt;゜)))彡</p><span class="copyBtn" data-desc="鱼" data-clipboard-text="<゜)))彡">鱼</span></li>
+<li><p>ζ°)))彡</p><span class="copyBtn" data-desc="小金鱼" data-clipboard-text="ζ°)))彡">小金鱼</span></li>
+<li><p>くコ:彡</p><span class="copyBtn" data-desc="鱼" data-clipboard-text="くコ:彡">鱼</span></li>
+<li><p>(:◎)≡</p><span class="copyBtn" data-desc="鱿鱼" data-clipboard-text="(:◎)≡">鱿鱼</span></li>
+<li><p>&gt;°))))彡</p><span class="copyBtn" data-desc="金鱼" data-clipboard-text=">°))))彡">金鱼</span></li>
+<li><p>&lt;+ ))&gt;&lt;&lt;</p><span class="copyBtn" data-desc="鱼" data-clipboard-text="<+ ))><<">鱼</span></li>
+<li><p>&lt;*)) &gt;&gt;=&lt;</p><span class="copyBtn" data-desc="鱼" data-clipboard-text="<*)) >>=<">鱼</span></li>
+<li><p>(°)#))&lt;&lt;</p><span class="copyBtn" data-desc="小鱼" data-clipboard-text="(°)#))<<">小鱼</span></li>
+<li><p>&lt;・ )))&gt;&lt;&lt;</p><span class="copyBtn" data-desc="鱼" data-clipboard-text="<・ )))><<">鱼</span></li>
+<li><p>(lll￢ω￢)</p><span class="copyBtn" data-desc="汗死" data-clipboard-text="(lll￢ω￢)">汗死</span></li>
+<li><p>o(一︿一+)o</p><span class="copyBtn" data-desc="怨念" data-clipboard-text="o(一︿一+)o">怨念</span></li>
+<li><p>(((φ(◎ロ◎;)φ)))</p><span class="copyBtn" data-desc="晕晕晕" data-clipboard-text="(((φ(◎ロ◎;)φ)))">晕晕晕</span></li>
+<li><p>~%?…,# *'☆&amp;℃$︿★?</p><span class="copyBtn" data-desc="乱码，什么跟什么？" data-clipboard-text="~%?…,# *'☆&amp;℃$︿★?">乱码，什么跟什么？</span></li>
+<li><p>(☆´益`)c</p><span class="copyBtn" data-desc="扶额" data-clipboard-text="(☆´益`)c">扶额</span></li>
+<li><p>◐▽◑</p><span class="copyBtn" data-desc="不知道" data-clipboard-text="◐▽◑">不知道</span></li>
+<li><p>(＠_＠;)</p><span class="copyBtn" data-desc="晕了，不懂" data-clipboard-text="(＠_＠;)">晕了，不懂</span></li>
+<li><p>┏(＾0＾)┛</p><span class="copyBtn" data-desc="再见" data-clipboard-text="┏(＾0＾)┛">再见</span></li>
+<li><p>(。・_・)/~~~</p><span class="copyBtn" data-desc="再见啦" data-clipboard-text="(。・_・)/~~~">再见啦</span></li>
+<li><p>(*￣▽￣)(￣▽:;.…::;.:.:::;..::;.:...</p><span class="copyBtn" data-desc="闪人" data-clipboard-text="(*￣▽￣)(￣▽:;.…::;.:.:::;..::;.:...">闪人</span></li>
+<li><p>（＾∀＾●）ﾉｼ</p><span class="copyBtn" data-desc="明天见" data-clipboard-text="（＾∀＾●）ﾉｼ">明天见</span></li>
+<li><p>＼（＾∀＾）メ（＾∀＾）ノ</p><span class="copyBtn" data-desc="回见" data-clipboard-text="＼（＾∀＾）メ（＾∀＾）ノ">回见</span></li>
+<li><p>( ´･･)ﾉ(._.`)</p><span class="copyBtn" data-desc="分手" data-clipboard-text="( ´･･)ﾉ(._.`)">分手</span></li>
+<li><p>₍₍ ◝(　ﾟ∀ ﾟ )◟⁾⁾不送</p><span class="copyBtn" data-desc="不送" data-clipboard-text="₍₍ ◝(　ﾟ∀ ﾟ )◟⁾⁾不送">不送</span></li>
+<li><p>(ㄏ￣▽￣)ㄏbyeㄟ(￣▽￣ㄟ)</p><span class="copyBtn" data-desc="拜拜" data-clipboard-text="(ㄏ￣▽￣)ㄏbyeㄟ(￣▽￣ㄟ)">拜拜</span></li>
+<li><p>ヾ(￣▽￣)Bye~Bye~</p><span class="copyBtn" data-desc="Bye~拜" data-clipboard-text="ヾ(￣▽￣)Bye~Bye~">Bye~拜</span></li>
+<li><p>=└(┐卍^o^)卍</p><span class="copyBtn" data-desc="闪" data-clipboard-text="=└(┐卍^o^)卍">闪</span></li>
+<li><p>( ﾟдﾟ)つBye</p><span class="copyBtn" data-desc="走啦" data-clipboard-text="( ﾟдﾟ)つBye">走啦</span></li>
+<li><p>(*￣;(￣ *)</p><span class="copyBtn" data-desc="吻别" data-clipboard-text="(*￣;(￣ *)">吻别</span></li>
+<li><p>✧(≖ ◡ ≖✿)</p><span class="copyBtn" data-desc="闪人" data-clipboard-text="✧(≖ ◡ ≖✿)">闪人</span></li>
+<li><p>&lt;(￣︶￣)↗[GO!]</p><span class="copyBtn" data-desc="GO!" data-clipboard-text="<(￣︶￣)↗[GO!]">GO!</span></li>
+<li><p>（。＾▽＾）</p><span class="copyBtn" data-desc="厉害" data-clipboard-text="（。＾▽＾）">厉害</span></li>
+<li><p>ヾ(●゜ⅴ゜)ﾉ</p><span class="copyBtn" data-desc="就是" data-clipboard-text="ヾ(●゜ⅴ゜)ﾉ">就是</span></li>
+<li><p>(*￣▽)u┌┐ ｄ(▽￣*)</p><span class="copyBtn" data-desc="高，厉害" data-clipboard-text="(*￣▽)u┌┐ ｄ(▽￣*)">高，厉害</span></li>
+<li><p>＜（＾－＾）＞</p><span class="copyBtn" data-desc="对" data-clipboard-text="＜（＾－＾）＞">对</span></li>
+<li><p>d=====(￣▽￣*)b</p><span class="copyBtn" data-desc="顶" data-clipboard-text="d=====(￣▽￣*)b">顶</span></li>
+<li><p>ヾ(＠⌒ー⌒＠)ノ</p><span class="copyBtn" data-desc="是啊是啊" data-clipboard-text="ヾ(＠⌒ー⌒＠)ノ">是啊是啊</span></li>
+<li><p>(((o(*ﾟ▽ﾟ*)o)))</p><span class="copyBtn" data-desc="赞" data-clipboard-text="(((o(*ﾟ▽ﾟ*)o)))">赞</span></li>
+<li><p>( *︾▽︾)</p><span class="copyBtn" data-desc="陶醉" data-clipboard-text="( *︾▽︾)">陶醉</span></li>

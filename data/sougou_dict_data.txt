@@ -1,0 +1,63 @@
+<div class="ywz_content">w(ﾟДﾟ)w</div>	<div class="ywz_cont_name">输入文字：啊啊</div>
+<div class="ywz_content">(ノへ￣、)</div>	<div class="ywz_cont_name">输入文字：擦眼泪</div>
+<div class="ywz_content">(￣_,￣ )</div>	<div class="ywz_cont_name">输入文字：不屑</div>
+<div class="ywz_content">ヽ(✿ﾟ▽ﾟ)ノ</div>	<div class="ywz_cont_name">输入文字：好耶</div>
+<div class="ywz_content">(๑•̀ㅂ•́)و✧</div>	<div class="ywz_cont_name">输入文字：棒</div>
+<div class="ywz_content">(￣ε(#￣)☆╰╮o(￣皿￣///) </div>	<div class="ywz_cont_name">输入文字：抽</div>
+<div class="ywz_content">（づ￣3￣）づ╭❤～</div>	<div class="ywz_cont_name">输入文字：亲</div>
+<div class="ywz_content">Σ( ° △ °|||)︴</div>	<div class="ywz_cont_name">输入文字：汗</div>
+<div class="ywz_content">(～￣(OO)￣)ブ </div>	<div class="ywz_cont_name">输入文字：笨</div>
+<div class="ywz_content">凸(艹皿艹 ) </div>	<div class="ywz_cont_name">输入文字：擦</div>
+<div class="ywz_content">(* ￣3)(ε￣ *) </div>	<div class="ywz_cont_name">输入文字：啵啵</div>
+<div class="ywz_content">(*￣rǒ￣)</div>	<div class="ywz_cont_name">输入文字：挖鼻屎</div>
+<div class="ywz_content">┗|｀O′|┛ 嗷~~ </div>	<div class="ywz_cont_name">输入文字：嗷</div>
+<div class="ywz_content">φ(≧ω≦*)♪ </div>	<div class="ywz_cont_name">输入文字：乐</div>
+<div class="ywz_content">︿(￣︶￣)︿</div>	<div class="ywz_cont_name">输入文字：飞</div>
+<div class="ywz_content">(u‿ฺu✿ฺ)</div>	<div class="ywz_cont_name">输入文字：好滴</div>
+<div class="ywz_content">Hi~ o(*￣▽￣*)ブ </div>	<div class="ywz_cont_name">输入文字：hi</div>
+<div class="ywz_content">♪(^∇^*)</div>	<div class="ywz_cont_name">输入文字：啦啦</div>
+<div class="ywz_content">o(*≧▽≦)ツ┏━┓</div>	<div class="ywz_cont_name">输入文字：拍桌</div>
+<div class="ywz_content">╰(*°▽°*)╯</div>	<div class="ywz_cont_name">输入文字：惊喜</div>
+<div class="ywz_content">（○｀ 3′○）</div>	<div class="ywz_cont_name">输入文字：嘟嘴</div>
+<div class="ywz_content">o(*^＠^*)o </div>	<div class="ywz_cont_name">输入文字：乖</div>
+<div class="ywz_content">(#`O′) </div>	<div class="ywz_cont_name">输入文字：喂</div>
+<div class="ywz_content">(°ー°〃) </div>	<div class="ywz_cont_name">输入文字：愣住</div>
+<div class="ywz_content">○|￣|_ =3 </div>	<div class="ywz_cont_name">输入文字：放屁</div>
+<div class="ywz_content">o(￣ヘ￣o＃) </div>	<div class="ywz_cont_name">输入文字：哼哼</div>
+<div class="ywz_content">（＝。＝）</div>	<div class="ywz_cont_name">输入文字：可恶</div>
+<div class="ywz_content">~~( ﹁ ﹁ ) ~~~ </div>	<div class="ywz_cont_name">输入文字：切</div>
+<div class="ywz_content">(ーー゛)</div>	<div class="ywz_cont_name">输入文字：去</div>
+<div class="ywz_content">(ー`´ー)</div>	<div class="ywz_cont_name">输入文字：生气</div>
+<div class="ywz_content">(#`O′) </div>	<div class="ywz_cont_name">输入文字：喂</div>
+<div class="ywz_content">o(一︿一+)o </div>	<div class="ywz_cont_name">输入文字：怨念</div>
+<div class="ywz_content">o(≧口≦)o </div>	<div class="ywz_cont_name">输入文字：崩溃</div>
+<div class="ywz_content">ㄟ( ▔, ▔ )ㄏ </div>	<div class="ywz_cont_name">输入文字：不是我</div>
+<div class="ywz_content">(o_ _)ﾉ</div>	<div class="ywz_cont_name">输入文字：败了</div>
+<div class="ywz_content">(⊙﹏⊙) </div>	<div class="ywz_cont_name">输入文字：呃呃呃</div>
+<div class="ywz_content">(ˉ▽￣～) 切~~ </div>	<div class="ywz_cont_name">输入文字：切</div>
+<div class="ywz_content">（＊￣（エ）￣）</div>	<div class="ywz_cont_name">输入文字：无言</div>
+<div class="ywz_content">┑(￣Д ￣)┍</div>	<div class="ywz_cont_name">输入文字：摊手</div>
+<div class="ywz_content">(＠_＠;)</div>	<div class="ywz_cont_name">输入文字：不懂</div>
+<div class="ywz_content">━┳━　━┳━ </div>	<div class="ywz_cont_name">输入文字：呆</div>
+<div class="ywz_content">(☆´益`)c</div>	<div class="ywz_cont_name">输入文字：扶额</div>
+<div class="ywz_content">（´Д`）</div>	<div class="ywz_cont_name">输入文字：囧</div>
+<div class="ywz_content">┗( T﹏T )┛</div>	<div class="ywz_cont_name">输入文字：投降</div>
+<div class="ywz_content">(。﹏。*) </div>	<div class="ywz_cont_name">输入文字：我错了</div>
+<div class="ywz_content">o( =•ω•= )m </div>	<div class="ywz_cont_name">输入文字：喵星人</div>
+<div class="ywz_content">≡ω≡</div>	<div class="ywz_cont_name">输入文字：喵呜</div>
+<div class="ywz_content">(*￣(エ)￣) </div>	<div class="ywz_cont_name">输入文字：熊</div>
+<div class="ywz_content">(✿◡‿◡)</div>	<div class="ywz_cont_name">输入文字：害羞</div>
+<div class="ywz_content">(*/ω＼*)</div>	<div class="ywz_cont_name">输入文字：脸红</div>
+<div class="ywz_content">┭┮﹏┭┮</div>	<div class="ywz_cont_name">输入文字：呜呜呜</div>
+<div class="ywz_content">ヾ(￣▽￣)Bye~Bye~ </div>	<div class="ywz_cont_name">输入文字：拜</div>
+<div class="ywz_content">( ﹁ ﹁ ) ~→ </div>	<div class="ywz_cont_name">输入文字：斜眼</div>
+<div class="ywz_content">Ψ(￣∀￣)Ψ</div>	<div class="ywz_cont_name">输入文字：美味</div>
+<div class="ywz_content">✧(≖ ◡ ≖✿)</div>	<div class="ywz_cont_name">输入文字：闪</div>
+<div class="ywz_content">━━(￣ー￣*|||━━</div>	<div class="ywz_cont_name">输入文字：淡定</div>
+<div class="ywz_content">ヽ(*。&gt;Д&lt;)o゜ </div>	<div class="ywz_cont_name">输入文字：太可怕了</div>
+<div class="ywz_content">┌(。Д。)┐</div>	<div class="ywz_cont_name">输入文字：恐怖</div>
+<div class="ywz_content">○|￣|_</div>	<div class="ywz_cont_name">输入文字：orz</div>
+<div class="ywz_content">o(￣▽￣)ｄ </div>	<div class="ywz_cont_name">输入文字：good</div>
+<div class="ywz_content">(；′⌒`) </div>	<div class="ywz_cont_name">输入文字：伤心</div>
+<div class="ywz_content">X﹏X</div>	<div class="ywz_cont_name">输入文字：糟糕</div>
+<div class="ywz_content">*&lt;|:-)&nbsp;</div>	<div class="ywz_cont_name">输入文字：圣诞</div>

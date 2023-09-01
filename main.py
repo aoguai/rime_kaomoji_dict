@@ -1,6 +1,5 @@
 import re
-from pypinyin import pinyin, Style, NORMAL
-from pyshuangpin import shuangpin, Scheme
+from pypinyin import pinyin, Style
 
 
 def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin=True, save_file=True):
@@ -57,8 +56,6 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         if re.match(chinese_english_pattern, chinese_text.replace(" ", "")):
                             # 使用PyPinyin库将中文转换为拼音
                             pinyin_text = pinyin(chinese_text, style=Style.NORMAL, heteronym=False)
-                            # 使用pyshuangpin库将中文转换为双拼，支持小鹤、自然码、搜狗、微软、智能 ABC
-                            # pinyin_text = shuangpin(chinese_text, Scheme.小鹤, style=NORMAL)
                             pinyin_str = ''.join([item[0] for item in pinyin_text])
 
                             # 格式化并写入到结果列表
@@ -122,7 +119,8 @@ if __name__ == "__main__":
     all_output_result_kmj = []
 
     input_filename_list = ['data/A_kaomoji_dict_data.txt', 'data/custom_phrase_dict_data.txt',
-                           'data/lmeee_dict_data.txt', 'data/sougou_dict_data.txt', 'data/Temreg_dict_data.txt']    # 1245 1253
+                           'data/lmeee_dict_data.txt', 'data/sougou_dict_data.txt',
+                           'data/Temreg_dict_data.txt']  # 1245 1253
 
     # input_filename_list = ['data/A_kaomoji_dict_data.txt']  # 0 159
     # input_filename_list = ['data/custom_phrase_dict_data.txt']  # 808 739

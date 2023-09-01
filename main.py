@@ -31,11 +31,11 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
         pattern = r'<p>(.*?)<\/p><span class="copyBtn".*?data-desc="(.*?)".*?data-clipboard-text=".*?">.*?<\/span>'
         chinese_english_pattern = r'^[a-zA-Z\u4e00-\u9fa5]+$'
     elif 'Temreg' in input_filename:
-        pattern = r'^(.*?)    (.*)$'
+        pattern = r'^(.*?)\t(.*)\t(.*)$'
     elif 'A_kaomoji' in input_filename:
         pattern = None
     elif 'custom_phrase' in input_filename:
-        pattern = r'^(.*?)\t(.*)\t(.*)$'
+        pattern = r'^(.*?)    (.*)$'
     elif 'sougou' in input_filename:
         pattern = r'<div class="ywz_content">(.*?)<\/div>.*?<div class="ywz_cont_name">输入文字：(.*?)<\/div>'
         chinese_english_pattern = r'^[a-zA-Z\u4e00-\u9fa5]+$'

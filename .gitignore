@@ -3,3 +3,5 @@
 *cache__/
 data/all_output_result_kmj.txt
 data/all_output_result_pinyin.txt
+data/all_output_result_shuangpin.txt
+data/all_output_result_shuangpin_bad.txt

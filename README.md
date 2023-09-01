@@ -38,7 +38,7 @@ kaomoji_pinyin.dict.yaml
 
 `kaomoji_kmj.dict.yaml`：固定将**所有颜文字** **拼音部份（即文字对应的编码）** 设置为`kmj`
 
-`kaomoji_pinyin.dict.yaml` ：则是正常使用 [Pypinyin](https://github.com/mozillazg/python-pinyin) 生成所有颜文字对应的中文的拼音作为文字对应的编码
+`kaomoji_pinyin.dict.yaml` ：则是正常使用 [Pypinyin](https://github.com/mozillazg/python-pinyin) 生成所有颜文字对应的中文的拼音（可选双拼）作为文字对应的编码
 
 二者互不冲突，您可以根据自己的喜好选择其一或全部将其放入 Rime 输入法的用户文件夹中并做对应的**调用**即可。
 

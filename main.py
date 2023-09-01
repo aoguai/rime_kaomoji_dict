@@ -1,5 +1,6 @@
 import re
-from pypinyin import pinyin, Style
+from pypinyin import pinyin, Style, NORMAL
+from pyshuangpin import shuangpin, Scheme
 
 
 def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin=True, save_file=True):
@@ -56,6 +57,8 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         if re.match(chinese_english_pattern, chinese_text.replace(" ", "")):
                             # 使用PyPinyin库将中文转换为拼音
                             pinyin_text = pinyin(chinese_text, style=Style.NORMAL, heteronym=False)
+                            # 使用pyshuangpin库将中文转换为双拼，支持小鹤、自然码、搜狗、微软、智能 ABC
+                            # pinyin_text = shuangpin(chinese_text, Scheme.小鹤, style=NORMAL)
                             pinyin_str = ''.join([item[0] for item in pinyin_text])
 
                             # 格式化并写入到结果列表

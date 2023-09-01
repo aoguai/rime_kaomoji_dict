@@ -75,7 +75,7 @@ all_output_result_pinyin.txt
 all_output_result_shuangpin.txt
 all_output_result_shuangpin_bad.txt
 ```
-前者为转换好的双拼词库，后者文件里的词条需要手动转换。
+前者为转换好的双拼词库，后者文件里的词条需要手动转换。 双拼颜文字挂载到 Rime 可参考 [添加颜文字词库](https://github.com/iDvel/rime-ice/pull/463)
 
 由于音节划分算法有局限，部分形如 pingan 的编码会取 pin/gan 而非 ping/an 导致转换不正确。
 

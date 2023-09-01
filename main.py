@@ -32,11 +32,11 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
         pattern = r'<p>(.*?)<\/p><span class="copyBtn".*?data-desc="(.*?)".*?data-clipboard-text=".*?">.*?<\/span>'
         chinese_english_pattern = r'^[a-zA-Z\u4e00-\u9fa5]+$'
     elif 'Temreg' in input_filename:
-        pattern = r'^(.*?)    (.*)$'
+        pattern = r'^(.*?)\t(.*)\t(.*)$'
     elif 'A_kaomoji' in input_filename:
         pattern = None
     elif 'custom_phrase' in input_filename:
-        pattern = r'^(.*?)\t(.*)\t(.*)$'
+        pattern = r'^(.*?)    (.*)$'
     elif 'sougou' in input_filename:
         pattern = r'<div class="ywz_content">(.*?)<\/div>.*?<div class="ywz_cont_name">输入文字：(.*?)<\/div>'
         chinese_english_pattern = r'^[a-zA-Z\u4e00-\u9fa5]+$'
@@ -70,8 +70,8 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         output_line = f"{emoticon}\tkmj\t1\n"
                         output_result_kmj.append(output_line)
                 elif 'Temreg' in input_filename:
-                    chinese_text = match.group(1)  # 提取拼音
-                    emoticon = remove_prefix(remove_prefix(match.group(2).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
+                    chinese_text = match.group(2)  # 提取拼音
+                    emoticon = remove_prefix(remove_prefix(match.group(1).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
                     if is_pinyin:
                         # 格式化并写入到结果列表
                         output_line = f"{emoticon}\t{chinese_text}\t1\n"
@@ -80,8 +80,8 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         output_line = f"{emoticon}\tkmj\t1\n"
                         output_result_kmj.append(output_line)
                 elif 'custom_phrase' in input_filename:
-                    emoticon = remove_prefix(remove_prefix(match.group(1).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
-                    chinese_text = match.group(2)  # 提取拼音
+                    emoticon = remove_prefix(remove_prefix(match.group(2).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
+                    chinese_text = match.group(1)  # 提取拼音
                     if is_pinyin:
                         # 格式化并写入到结果列表
                         output_line = f"{emoticon}\t{chinese_text}\t1\n"

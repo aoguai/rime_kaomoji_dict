@@ -46,6 +46,8 @@ kaomoji_pinyin.dict.yaml
 
 同时您还可以自行从项目仓库源码构建词库
 
+#### 全拼词库
+
 ```bash
 git clone https://github.com/aoguai/rime_kaomoji_dict.git
 cd rime_kaomoji_dict
@@ -62,6 +64,20 @@ all_output_result_pinyin.txt
 同时，从本仓库源码构建时，您可以自行选择使用哪些颜文字素材，只需在 `main.py` 中修改 `input_filename_list` 变量即可。
 
 同时你还可以自定义导出的词库的**格式**等，具体请自行查看 `main.py` 中的 `process_and_save_combined_kaomoji` 函数部分代码。
+
+#### 双拼词库  
+
+已生成的全拼词库 `kaomoji_pinyin.dict.yaml` 可导出为双拼词库，支持小鹤双拼、自然码、搜狗双拼、微软双拼、智能ABC双拼方案。
+
+运行 `pydict2spdict.py` ，会在 data 目录中生成 
+
+```html
+all_output_result_shuangpin.txt
+all_output_result_shuangpin_bad.txt
+```
+前者为转换好的双拼词库，后者文件里的词条需要手动转换。
+
+由于音节划分算法有局限，部分形如 pingan 的编码会取 pin/gan 而非 ping/an 导致转换不正确。
 
 ## 数据原始来源
 

@@ -67,8 +67,8 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         output_line = f"{emoticon}\tkmj\t1\n"
                         output_result_kmj.append(output_line)
                 elif 'Temreg' in input_filename:
-                    chinese_text = match.group(1)  # 提取拼音
-                    emoticon = remove_prefix(remove_prefix(match.group(2).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
+                    chinese_text = match.group(2)  # 提取拼音
+                    emoticon = remove_prefix(remove_prefix(match.group(1).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
                     if is_pinyin:
                         # 格式化并写入到结果列表
                         output_line = f"{emoticon}\t{chinese_text}\t1\n"
@@ -77,8 +77,8 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         output_line = f"{emoticon}\tkmj\t1\n"
                         output_result_kmj.append(output_line)
                 elif 'custom_phrase' in input_filename:
-                    emoticon = remove_prefix(remove_prefix(match.group(1).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
-                    chinese_text = match.group(2)  # 提取拼音
+                    emoticon = remove_prefix(remove_prefix(match.group(2).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
+                    chinese_text = match.group(1)  # 提取拼音
                     if is_pinyin:
                         # 格式化并写入到结果列表
                         output_line = f"{emoticon}\t{chinese_text}\t1\n"
@@ -120,6 +120,7 @@ if __name__ == "__main__":
 
     input_filename_list = ['data/A_kaomoji_dict_data.txt', 'data/custom_phrase_dict_data.txt',
                            'data/lmeee_dict_data.txt', 'data/sougou_dict_data.txt', 'data/Temreg_dict_data.txt']
+
     for input_filename in input_filename_list:
         output_result_pinyin, output_result_kmj = process_and_save_combined_kaomoji(input_filename=input_filename,
                                                                                     output_filename=input_filename.replace(

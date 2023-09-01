@@ -121,8 +121,15 @@ if __name__ == "__main__":
     all_output_result_pinyin = []
     all_output_result_kmj = []
 
-    input_filename_list = ['data/A_kaomoji_dict_data.txt', 'data/custom_phrase_dict_data.txt',
-                           'data/lmeee_dict_data.txt', 'data/sougou_dict_data.txt', 'data/Temreg_dict_data.txt']
+    # input_filename_list = ['data/A_kaomoji_dict_data.txt', 'data/custom_phrase_dict_data.txt',
+    #                        'data/lmeee_dict_data.txt', 'data/sougou_dict_data.txt', 'data/Temreg_dict_data.txt']
+
+    # input_filename_list = ['data/A_kaomoji_dict_data.txt']  # 0 159
+    input_filename_list = ['data/custom_phrase_dict_data.txt']  # 0 0
+    # input_filename_list = ['data/lmeee_dict_data.txt']    # 329 402
+    # input_filename_list = ['data/sougou_dict_data.txt']   # 62 62
+    # input_filename_list = ['data/Temreg_dict_data.txt'] # 0 0
+
     for input_filename in input_filename_list:
         output_result_pinyin, output_result_kmj = process_and_save_combined_kaomoji(input_filename=input_filename,
                                                                                     output_filename=input_filename.replace(

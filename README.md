@@ -11,11 +11,11 @@ A collection of kaomoji expressions, also capable of generating dictionaries sui
 ```html
 rime_kaomoji_dict
 ├─ data
-│    ├─ A_kaomoji_dict_data.txt：A岛匿名版部分颜文字素材
+│    ├─ A_kaomoji_dict_data.txt：A岛匿名版部分颜文字素材（无编码信息）
 │    ├─ Temreg_dict_data.txt：百度贴吧吧友Temreg分享的颜文字素材
 │    ├─ custom_phrase_dict_data.txt： girhub kaos 项目中的颜文字素材
 │    ├─ lmeee_dict_data.txt：拉米工具颜文字素材
-│    └─ sougou_dict_data.txt：搜狗颜文字素材
+│    └─ sougou_dict_data.txt：搜狗颜文字与A岛匿名版部分颜文字（有编码信息）素材
 └─ main.py：处理颜文字素材的脚本
 ```
 ## 安装与使用

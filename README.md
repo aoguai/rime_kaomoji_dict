@@ -11,12 +11,11 @@ A collection of kaomoji expressions, also capable of generating dictionaries sui
 ```html
 rime_kaomoji_dict
 ├─ data
-│    ├─ A_kaomoji_dict_data.txt：A岛匿名版部分颜文字素材
+│    ├─ A_kaomoji_dict_data.txt：A岛匿名版部分颜文字素材（无编码信息）
 │    ├─ Temreg_dict_data.txt：百度贴吧吧友Temreg分享的颜文字素材
 │    ├─ custom_phrase_dict_data.txt： girhub kaos 项目中的颜文字素材
 │    ├─ lmeee_dict_data.txt：拉米工具颜文字素材
-│    └─ sougou_dict_data.txt：搜狗颜文字素材
-├─ pydict2spdict.py：全拼词典导出双拼词典的脚本
+│    └─ sougou_dict_data.txt：搜狗颜文字与A岛匿名版部分颜文字（有编码信息）素材
 └─ main.py：处理颜文字素材的脚本
 ```
 ## 安装与使用
@@ -39,7 +38,7 @@ kaomoji_pinyin.dict.yaml
 
 `kaomoji_kmj.dict.yaml`：固定将**所有颜文字** **拼音部份（即文字对应的编码）** 设置为`kmj`
 
-`kaomoji_pinyin.dict.yaml` ：则是正常使用 [Pypinyin](https://github.com/mozillazg/python-pinyin) 生成所有颜文字对应的中文的拼音（可选双拼）作为文字对应的编码
+`kaomoji_pinyin.dict.yaml` ：则是正常使用 [Pypinyin](https://github.com/mozillazg/python-pinyin) 生成所有颜文字对应的中文的拼音[（可选双拼）](https://github.com/aoguai/rime_kaomoji_dict#双拼词库)作为文字对应的编码
 
 二者互不冲突，您可以根据自己的喜好选择其一或全部将其放入 Rime 输入法的用户文件夹中并做对应的**调用**即可。
 
@@ -65,6 +64,7 @@ all_output_result_pinyin.txt
 同时，从本仓库源码构建时，您可以自行选择使用哪些颜文字素材，只需在 `main.py` 中修改 `input_filename_list` 变量即可。
 
 同时你还可以自定义导出的词库的**格式**等，具体请自行查看 `main.py` 中的 `process_and_save_combined_kaomoji` 函数部分代码。
+#### 双拼词库
 
 #### 双拼词库  
 
@@ -91,6 +91,23 @@ all_output_result_shuangpin_bad.txt
 [kaos/dict.txt at master · tisyang/kaos](https://github.com/tisyang/kaos/blob/master/dict.txt)
 
 [搜狗颜文字](https://pinyin.sogou.com/dict/ywz/?f=dict_index&ytype=24)
+### 贡献者们
+感谢贡献者们对本项目作出的贡献:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="100%"><a href="https://github.com/xtmu"><img src="https://avatars.githubusercontent.com/u/90405292?v=4?s=100" width="100px;" alt="Well404"/><br /><sub><b>xtmu</b></sub></a><br /><a href="https://github.com/aoguai/rime_kaomoji_dict/commits/shuangpin?author=xtmu" title="Code">💻</a></a><a href="https://github.com/aoguai/rime_kaomoji_dict//issues?q=author:xtmu" title="Bug reports">🐛</a></a><a href="https://github.com/aoguai/rime_kaomoji_dict/commits/shuangpin?author=xtmu" title="Bug reports">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 免责声明
 此存储库遵循 [MIT 开源协议](https://github.com/aoguai/rime_kaomoji_dict/blob/master/LICENSE)，请务必理解。

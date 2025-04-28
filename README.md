@@ -172,10 +172,4 @@ kaomoji_shuangpin_znabc.dict.yaml   # 智能ABC双拼版颜文字词库
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 免责声明
-此存储库遵循 [MIT 开源协议](https://github.com/aoguai/rime_kaomoji_dict/blob/master/LICENSE)，请务必理解。
-
-我们严禁所有通过本程序违反任何国家法律的行为，请在法律范围内使用本程序。
-
-默认情况下，使用此项目将被视为您同意我们的规则。请务必遵守道德和法律标准。
-
-如果您不遵守，您将对后果负责，作者将不承担任何责任！
+[rime_kaomoji_dict](https://github.com/aoguai/rime_kaomoji_dict) 遵循 [MIT 开源协议](https://github.com/aoguai/rime_kaomoji_dict/blob/master/LICENSE)。

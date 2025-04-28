@@ -79,7 +79,7 @@
 <li><p>▄︻┻┳═一……</p><span class="copyBtn" data-desc="抢，突突" data-clipboard-text="▄︻┻┳═一……">抢，突突</span></li>
 <li><p>(o ￣3)==@))゜ロ゜((@==(′ε′ )o</p><span class="copyBtn" data-desc="两面夹击" data-clipboard-text="(o ￣3)==@))゜ロ゜((@==(′ε′ )o">两面夹击</span></li>
 <li><p>&lt;( ￣^￣)(θ(θ☆( &gt;_&lt;</p><span class="copyBtn" data-desc="踹" data-clipboard-text="<( ￣^￣)(θ(θ☆( >_<">踹</span></li>
-<li><p>▄︻┻┳═一…… ☆（&gt;○&lt;）</p><span class="copyBtn" data-desc="爆头" data-clipboard-text="▄︻┻┳═一…… ☆（>○<）">爆头</span></li>
+<li><p>▄︻┻┳═一…… ☆（>○<）</p><span class="copyBtn" data-desc="爆头" data-clipboard-text="▄︻┻┳═一…… ☆（>○<）">爆头</span></li>
 <li><p>(ﾉ*･ω･)ﾉ</p><span class="copyBtn" data-desc="推倒" data-clipboard-text="(ﾉ*･ω･)ﾉ">推倒</span></li>
 <li><p>▄︻┻┳═一∵∴∷∶∵&gt;&gt;</p><span class="copyBtn" data-desc="散弹" data-clipboard-text="▄︻┻┳═一∵∴∷∶∵>>">散弹</span></li>
 <li><p>[噎住] ( *⊙~⊙)</p><span class="copyBtn" data-desc="噎住" data-clipboard-text="[噎住] ( *⊙~⊙)">噎住</span></li>

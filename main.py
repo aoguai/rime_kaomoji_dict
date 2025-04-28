@@ -56,39 +56,39 @@ def process_and_save_combined_kaomoji(input_filename, output_filename, is_pinyin
                         if re.match(chinese_english_pattern, chinese_text.replace(" ", "")):
                             # 使用PyPinyin库将中文转换为拼音
                             pinyin_text = pinyin(chinese_text, style=Style.NORMAL, heteronym=False)
-                            pinyin_str = ''.join([item[0] for item in pinyin_text])
+                            pinyin_str = ' '.join([item[0] for item in pinyin_text])
 
                             # 格式化并写入到结果列表
-                            output_line = f"{emoticon}\t{pinyin_str}\t1\n"
+                            output_line = f"{emoticon}\t{pinyin_str}\t0\n"
                             output_result_pinyin.append(output_line)
                         else:
                             continue
                     else:
-                        output_line = f"{emoticon}\tkmj\t1\n"
+                        output_line = f"{emoticon}\tkmj\t0\n"
                         output_result_kmj.append(output_line)
                 elif 'Temreg' in input_filename:
                     chinese_text = match.group(2)  # 提取拼音
                     emoticon = remove_prefix(remove_prefix(match.group(1).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
                     if is_pinyin:
                         # 格式化并写入到结果列表
-                        output_line = f"{emoticon}\t{chinese_text}\t1\n"
+                        output_line = f"{emoticon}\t{chinese_text}\t0\n"
                         output_result_pinyin.append(output_line)
                     else:
-                        output_line = f"{emoticon}\tkmj\t1\n"
+                        output_line = f"{emoticon}\tkmj\t0\n"
                         output_result_kmj.append(output_line)
                 elif 'custom_phrase' in input_filename:
                     emoticon = remove_prefix(remove_prefix(match.group(2).strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
                     chinese_text = match.group(1)  # 提取拼音
                     if is_pinyin:
                         # 格式化并写入到结果列表
-                        output_line = f"{emoticon}\t{chinese_text}\t1\n"
+                        output_line = f"{emoticon}\t{chinese_text}\t0\n"
                         output_result_pinyin.append(output_line)
                     else:
-                        output_line = f"{emoticon}\tkmj\t1\n"
+                        output_line = f"{emoticon}\tkmj\t0\n"
                         output_result_kmj.append(output_line)
         elif 'A_kaomoji' in input_filename:
             emoticon = remove_prefix(remove_prefix(line.strip(), "---"), "...")  # 提取颜文字表情,同时排除非法开头
-            output_line = f"{emoticon}\tkmj\t1\n"
+            output_line = f"{emoticon}\tkmj\t0\n"
             output_result_kmj.append(output_line)
 
     # 保存结果到文件

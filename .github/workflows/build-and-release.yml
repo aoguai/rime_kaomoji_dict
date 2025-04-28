@@ -1,0 +1,121 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'V*'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    env:
+      PYTHON_VERSION: '3.11'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # 获取完整历史记录，用于生成CHANGELOG
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # 安装requirements.txt中的依赖
+        pip install -r requirements.txt
+
+    - name: Generate dictionaries
+      run: |
+        python generate_dict.py --all
+
+    - name: Generate CHANGELOG
+      run: |
+        # 获取当前标签
+        CURRENT_TAG=$(git describe --tags --abbrev=0)
+        echo "Current tag: $CURRENT_TAG"
+        
+        # 获取上一个标签，如果没有则使用初始提交
+        PREVIOUS_TAG=$(git describe --tags --abbrev=0 HEAD^ 2>/dev/null || git rev-list --max-parents=0 HEAD)
+        echo "Previous tag or initial commit: $PREVIOUS_TAG"
+        
+        # 输出标签之间的变更到CHANGELOG.md
+        echo "# $CURRENT_TAG 更新日志" > CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "发布日期: $(date +%Y-%m-%d)" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "## 更新内容" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        if [[ "$PREVIOUS_TAG" == $(git rev-list --max-parents=0 HEAD) ]]; then
+          # 如果这是第一个标签，列出所有提交
+          git log --pretty=format:"* %s (%h)" $PREVIOUS_TAG..$CURRENT_TAG >> CHANGELOG.md
+        else
+          # 否则列出自上一个标签以来的提交
+          git log --pretty=format:"* %s (%h)" $PREVIOUS_TAG..$CURRENT_TAG >> CHANGELOG.md
+        fi
+        
+        # 添加固定内容
+        echo "" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "### 直接使用预生成的词库" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "如果您没有开发需求，可以直接前往 [releases](https://github.com/aoguai/rime_kaomoji_dict/releases) 下载最新版本的词库文件，直接使用即可。" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "解压后你会得到以下适用于Rime输入法的词库文件:" >> CHANGELOG.md
+        echo "\`\`\`" >> CHANGELOG.md
+        echo "kaomoji_pinyin.dict.yaml            # 全拼版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_kmj.dict.yaml               # kmj标记版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_shuangpin_xiaohe.dict.yaml  # 小鹤双拼版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_shuangpin_ziranma.dict.yaml # 自然码双拼版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_shuangpin_sogou.dict.yaml   # 搜狗双拼版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_shuangpin_microsoft.dict.yaml # 微软双拼版颜文字词库" >> CHANGELOG.md
+        echo "kaomoji_shuangpin_znabc.dict.yaml   # 智能ABC双拼版颜文字词库" >> CHANGELOG.md
+        echo "\`\`\`" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "它们的区别在于：" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "- \`kaomoji_kmj.dict.yaml\`：固定将**所有颜文字**的**编码**设置为\`kmj\`" >> CHANGELOG.md
+        echo "- \`kaomoji_pinyin.dict.yaml\`：使用颜文字对应中文的拼音作为编码" >> CHANGELOG.md
+        echo "- \`kaomoji_shuangpin_*.dict.yaml\`：使用不同双拼方案对应的编码" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "### 词库差异与选择" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "不同类型词库的实际输入体验：" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "- **全拼版**：输入颜文字对应中文的拼音，如输入\`kaixin\`可能得到\`(✿◡‿◡)\`" >> CHANGELOG.md
+        echo "- **kmj版**：输入\`kmj\`获取所有颜文字，可结合Rime的模糊搜索功能" >> CHANGELOG.md
+        echo "- **双拼版**：输入颜文字对应中文的双拼编码，如小鹤双拼输入\`kx\`可能得到\`(✿◡‿◡)\`" >> CHANGELOG.md
+        echo "" >> CHANGELOG.md
+        echo "您可以根据自己的喜好和输入习惯选择适合的词库。不同词库之间不冲突，可以同时启用多个。" >> CHANGELOG.md
+        
+        # 显示CHANGELOG内容
+        cat CHANGELOG.md
+
+    - name: Package output directory
+      run: |
+        zip -r rime_kaomoji_dict.zip output/
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref_name }}
+        body_path: CHANGELOG.md
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./rime_kaomoji_dict.zip
+        asset_name: rime_kaomoji_dict-${{ github.ref_name }}.zip
+        asset_content_type: application/zip 

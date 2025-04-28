@@ -1,9 +1,8 @@
 .gitignore
 /.gitignore
 /*.zip
-/data/all_output_result_kmj.txt
-/data/all_output_result_pinyin.txt
-/data/kaomoji_kmj.dict.yaml
-/data/kaomoji_pinyin.dict.yaml
+/output
 /venv/
 .idea
+__pycache__
+CHANGELOG.md
